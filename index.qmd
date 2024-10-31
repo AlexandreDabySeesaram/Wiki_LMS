@@ -7,7 +7,7 @@ about:
   links:
     - icon: gitlab
       text: Gitlab
-      href: https://alexandredabyseesaram.github.io/WIKI_LMS/
+      href: https://github.com/AlexandreDabySeesaram/Wiki_LMS
 format:
   html:
     page-layout: full
