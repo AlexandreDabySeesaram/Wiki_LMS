@@ -5,8 +5,8 @@ toc: false
 about:
   template: marquee
   links:
-    - icon: gitlab
-      text: Gitlab
+    - icon: github
+      text: Github
       href: https://github.com/AlexandreDabySeesaram/Wiki_LMS
 format:
   html:
