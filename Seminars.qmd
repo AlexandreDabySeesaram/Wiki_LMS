@@ -1,0 +1,25 @@
+---
+title: Seminars
+format:
+  html:
+    page-layout: full
+---
+
+
+| Date           | Speaker                              | Institution                               | Seminar Type |
+|----------------|--------------------------------------|-------------------------------------------|--------------|
+| September 19   | Adrien Baldit                        | Université de Lorraine                    | LMS Seminar  |
+| September 26   | Arthur Despres                       | Grenoble INP, Université Grenoble Alpes   | LMS Seminar  |
+| October 03     | Hao Gao                              | University of Glasgow                     | LMS Seminar  |
+| October 10     | Jean-Charles Passieux                | INSA de Toulouse                          | LMS Seminar  |
+| October 17     | Benoît Roman                         | PMMH – ESPCI, Paris                       | LMS Seminar  |
+| November 07    | Angkur Jyoti Dipanka Shaikeea        | University of Cambridge                   | LMS Seminar  |
+| November 14    | MEDISIM seminars and workshop        | (all day)                                 | MEDISIM      |
+| November 21    | Martina Bramberger                   | NorthWest Research Associates, Boulder    | MECA Seminar |
+| November 28    |                                      |                                           | LMS Seminar  |
+| December 05    | Pedro Reis                           | EPFL                                      | LMS Seminar  |
+| December 11    | Triona Lally                         | Trinity College Dublin                    | MECA Seminar |
+| December 19    | Marie-Agathe Charpagne               | University of Illinois Urbana-Champaign   | LMS Seminar  |
+
+- **Time:** Every Thursday, 14:00 – 15:00 (unless otherwise specified)
+- **Venue:** Amphi 104 (Pôle Mécanique)

@@ -1,0 +1,29 @@
+---
+title: Laboratoire de Mécanique des Solides (LMS), École Polytechnique
+image: Resources/Images/LMS.png
+toc: false
+about:
+  template: marquee
+  links:
+    - icon: gitlab
+      text: Gitlab
+      href: https://alexandredabyseesaram.github.io/WIKI_LMS/
+format:
+  html:
+    page-layout: full
+---
+# Welcome to the LMS's wiki,
+This wiki serves as a central hub for all our documentation, resources, shared literature review and more.
+
+Here, you will find:
+
+* **Seminars**: The list of past and future seminars in the lab
+* **Journal Club**: The schedule and prospects of past and future journal club sessions
+* **SScientific literature**: A list of the scientific papers shared by members of the lab
+* **Usefull resources**: A list of useful resources for our scientific activities (writing, computing, presenting, etc)
+
+# How to add resources
+ Add the resource (pdf, svg, etc) in the `Resources/Documents/YourSubfolderOfChoice` folder and reference it in markdown `[text](Resources/Documents/YourSubfolderOfChoice/YourFile)`
+
+
+

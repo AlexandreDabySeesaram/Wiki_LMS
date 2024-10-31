@@ -1,0 +1,58 @@
+[
+  {
+    "objectID": "LitReview.html",
+    "href": "LitReview.html",
+    "title": "Scientific papers",
+    "section": "",
+    "text": "Reduced-order modelling\n\n\n\nTopic\nRef\n\n\n\n\nPGD\n(Chinesta, Ladeveze, and Cueto 2011)\n\n\nGNN\n(Matray et al. 2024)\n\n\n\n\n\nModelling\n\n\n\nTopic\nRef\n\n\n\n\nDamage\n(Lemaître and Desmorat 2005)\n\n\nDamage\n(Lemaître and Desmorat 2005)\n\n\n\n\n\n\n\n\nReferences\n\nChinesta, Francisco, Pierre Ladeveze, and Elías Cueto. 2011. “A Short Review on Model Order Reduction Based on Proper Generalized Decomposition.” Archives of Computational Methods in Engineering 18 (4): 395–404. https://doi.org/10.1007/s11831-011-9064-7.\n\n\nLemaître, J., and R. Desmorat. 2005. Engineering Damage Mechanics: Ductile, Creep, Fatigue and Brittle Failures. Berlin ; New York: Springer.\n\n\nMatray, Victor, Faisal Amlani, Frédéric Feyel, and David Néron. 2024. “A Hybrid Numerical Methodology Coupling Reduced Order Modeling and Graph Neural Networks for Non-Parametric Geometries: Applications to Structural Dynamics Problems.” Computer Methods in Applied Mechanics and Engineering 430 (October): 117243. https://doi.org/10.1016/j.cma.2024.117243."
+  },
+  {
+    "objectID": "Seminars.html",
+    "href": "Seminars.html",
+    "title": "Seminars",
+    "section": "",
+    "text": "Date\nSpeaker\nInstitution\nSeminar Type\n\n\n\n\nSeptember 19\nAdrien Baldit\nUniversité de Lorraine\nLMS Seminar\n\n\nSeptember 26\nArthur Despres\nGrenoble INP, Université Grenoble Alpes\nLMS Seminar\n\n\nOctober 03\nHao Gao\nUniversity of Glasgow\nLMS Seminar\n\n\nOctober 10\nJean-Charles Passieux\nINSA de Toulouse\nLMS Seminar\n\n\nOctober 17\nBenoît Roman\nPMMH – ESPCI, Paris\nLMS Seminar\n\n\nNovember 07\nAngkur Jyoti Dipanka Shaikeea\nUniversity of Cambridge\nLMS Seminar\n\n\nNovember 14\nMEDISIM seminars and workshop\n(all day)\nMEDISIM\n\n\nNovember 21\nMartina Bramberger\nNorthWest Research Associates, Boulder\nMECA Seminar\n\n\nNovember 28\n\n\nLMS Seminar\n\n\nDecember 05\nPedro Reis\nEPFL\nLMS Seminar\n\n\nDecember 11\nTriona Lally\nTrinity College Dublin\nMECA Seminar\n\n\nDecember 19\nMarie-Agathe Charpagne\nUniversity of Illinois Urbana-Champaign\nLMS Seminar\n\n\n\n\nTime: Every Thursday, 14:00 – 15:00 (unless otherwise specified)\nVenue: Amphi 104 (Pôle Mécanique)"
+  },
+  {
+    "objectID": "AddResources.html",
+    "href": "AddResources.html",
+    "title": "Additional resources",
+    "section": "",
+    "text": "A Ph.D. thesis template openly available on Github.\nA beamer template for LMS presentations is available on Github\nThe package microtype helps improving the rendering of long text easily"
+  },
+  {
+    "objectID": "AddResources.html#latex",
+    "href": "AddResources.html#latex",
+    "title": "Additional resources",
+    "section": "",
+    "text": "A Ph.D. thesis template openly available on Github.\nA beamer template for LMS presentations is available on Github\nThe package microtype helps improving the rendering of long text easily"
+  },
+  {
+    "objectID": "AddResources.html#writing",
+    "href": "AddResources.html#writing",
+    "title": "Additional resources",
+    "section": "Writing",
+    "text": "Writing\n\n\n\n\nCover letter\n\n\n\nHere is a template for cover letters using a Polytechnique letter format."
+  },
+  {
+    "objectID": "AddResources.html#code",
+    "href": "AddResources.html#code",
+    "title": "Additional resources",
+    "section": "Code",
+    "text": "Code\n\nNeuROM (Daby-Seesaram, Škardová, and Genet 2024)\n  \n\n\n\n\n\n\n\n\n\n\n\nThe reduced-order modelling code used to create surrogate models based on an hybridisation of standard reduced-order modelling methods such as the PGD and Deep learning methods is public and notebooks with tutorials are also available."
+  },
+  {
+    "objectID": "JournalClub.html",
+    "href": "JournalClub.html",
+    "title": "Journal club",
+    "section": "",
+    "text": "Date\nSpeaker\nTitle\nSeminar Type\n\n\n\n\nNovember 12\nAlexandre\nFENNI-PGD: non-linear surrogate modelling\nKeynote\n\n\nNovember 19\nXXXX\n\nReview\n\n\n\n\nTime: XXXX\nVenue: XXXX"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Laboratoire de Mécanique des Solides (LMS), École Polytechnique",
+    "section": "",
+    "text": "Welcome to the LMS’s wiki,\nThis wiki serves as a central hub for all our documentation, resources, shared literature review and more.\nHere, you will find:\n\nSeminars: The list of past and future seminars in the lab\nJournal Club: The schedule and prospects of past and future journal club sessions\nSScientific literature: A list of the scientific papers shared by members of the lab\nUsefull resources: A list of useful resources for our scientific activities (writing, computing, presenting, etc)\n\n\n\nHow to add resources\nAdd the resource (pdf, svg, etc) in the Resources/Documents/YourSubfolderOfChoice folder and reference it in markdown [text](Resources/Documents/YourSubfolderOfChoice/YourFile)"
+  }
+]

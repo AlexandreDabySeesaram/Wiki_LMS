@@ -1,0 +1,38 @@
+project:
+  resources:
+    - "Resources/Documents"
+  type: website
+  output-dir: public
+website:
+  title: "LMS's wiki"
+  description: "LMS's wiki"
+  # site-url: https://alexandredabyseesaram.github.io/
+  navbar:
+    right:
+      - href: index.qmd
+        text: Home
+      - href: Seminars.qmd
+        text: Seminars
+      - href: JournalClub.qmd
+        text: Journal Club
+      - href: LitReview.qmd
+        text: Scientific literature
+      - href: AddResources.qmd
+        text: Resources
+  # announcement: 
+  #   icon: info-circle
+  #   dismissable: true
+  #   content: "**New wiki** - The new team's wiki is online ! "
+  #   type: light
+  #   position: below-navbar
+
+format:
+  html:
+    theme:
+      light: flatly
+      dark: darkly
+    css: styles.css
+    toc: true
+
+
+

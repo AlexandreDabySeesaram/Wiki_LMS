@@ -1,0 +1,15 @@
+---
+title: Journal club
+format:
+  html:
+    page-layout: full
+---
+
+| Date           | Speaker                              | Title                                     | Seminar Type |
+|----------------|--------------------------------------|-------------------------------------------|--------------|
+| November 12    | Alexandre                            | FENNI-PGD: non-linear surrogate modelling | Keynote      |
+| November 19    | XXXX                                 |                                           | Review       |
+
+
+- **Time:** XXXX
+- **Venue:** XXXX
