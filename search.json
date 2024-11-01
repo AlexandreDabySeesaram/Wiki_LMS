@@ -53,6 +53,20 @@
     "href": "index.html",
     "title": "Laboratoire de Mécanique des Solides (LMS), École Polytechnique",
     "section": "",
-    "text": "Welcome to the LMS’s wiki,\nThis wiki serves as a central hub for all our documentation, resources, shared literature review and more.\nHere, you will find:\n\nSeminars: The list of past and future seminars in the lab\nJournal Club: The schedule and prospects of past and future journal club sessions\nSScientific literature: A list of the scientific papers shared by members of the lab\nUsefull resources: A list of useful resources for our scientific activities (writing, computing, presenting, etc)\n\n\n\nHow to add resources\nAdd the resource (pdf, svg, etc) in the Resources/Documents/YourSubfolderOfChoice folder and reference it in markdown [text](Resources/Documents/YourSubfolderOfChoice/YourFile)"
+    "text": "This wiki serves as a central hub for all our documentation, resources, shared literature review and more.\nHere, you will find:\n\nSeminars: The list of past and future seminars in the lab\nJournal Club: The schedule and prospects of past and future journal club sessions\nSScientific literature: A list of the scientific papers shared by members of the lab\nUsefull resources: A list of useful resources for our scientific activities (writing, computing, presenting, etc)"
+  },
+  {
+    "objectID": "index.html#welcome-to-the-lmss-wiki",
+    "href": "index.html#welcome-to-the-lmss-wiki",
+    "title": "Laboratoire de Mécanique des Solides (LMS), École Polytechnique",
+    "section": "",
+    "text": "This wiki serves as a central hub for all our documentation, resources, shared literature review and more.\nHere, you will find:\n\nSeminars: The list of past and future seminars in the lab\nJournal Club: The schedule and prospects of past and future journal club sessions\nSScientific literature: A list of the scientific papers shared by members of the lab\nUsefull resources: A list of useful resources for our scientific activities (writing, computing, presenting, etc)"
+  },
+  {
+    "objectID": "index.html#how-to-add-resources",
+    "href": "index.html#how-to-add-resources",
+    "title": "Laboratoire de Mécanique des Solides (LMS), École Polytechnique",
+    "section": "How to add resources",
+    "text": "How to add resources\nAdd the resource (pdf, svg, etc) in the Resources/Documents/YourSubfolderOfChoice folder and reference it in markdown [text](Resources/Documents/YourSubfolderOfChoice/YourFile)"
   }
 ]
