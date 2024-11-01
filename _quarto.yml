@@ -31,7 +31,7 @@ format:
     theme:
       light: [flatly,style_LMS.scss]
       dark: [darkly,style_LMS_dark.scss]
-    css: styles.css
+    css: [styles.css,style_LMS.scss,style_LMS_dark.scss]
     toc: true
 
 
