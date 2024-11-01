@@ -29,8 +29,8 @@ website:
 format:
   html:
     theme:
-      light: flatly
-      dark: darkly
+      light: [flatly,style_LMS.scss]
+      dark: [darkly,style_LMS_dark.scss]
     css: styles.css
     toc: true
 
