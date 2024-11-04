@@ -2,7 +2,7 @@ project:
   resources:
     - "Resources/Documents"
     - "style_LMS.scss"
-    # - "style_LMS_dark.scss"
+    - "style_LMS_dark.scss"
   type: website
   output-dir: public
 website:
@@ -32,7 +32,7 @@ format:
   html:
     theme:
       light: [flatly,style_LMS.scss]
-      dark: [darkly]
+      dark: [darkly,style_LMS_dark.scss]
     css: styles.css
     toc: true
 
