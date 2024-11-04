@@ -12,6 +12,7 @@ format:
   html:
     page-layout: full
 ---
+
 ## Welcome to the LMS's wiki,
 This wiki serves as a central hub for all our documentation, resources, shared literature review and more.
 

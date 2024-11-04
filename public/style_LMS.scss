@@ -1,18 +1,43 @@
 /*-- scss:defaults --*/
 // Base document colors
-$body-bg: #f3f3f3;
-$body-color: #212121ff;
-$link-color: rgb(1, 66, 106);
+// $body-bg: #f3f3f3;
+// $body-color: #212121ff;
+// $link-color: rgb(1, 66, 106);
+$link-color: #bf8f43ff;
 $navbar-bg: rgb(1, 66, 106);
 // $h2-font-size: 20px;
 
-
 /*-- scss:rules --*/
 
-h2 {
-    color: rgb(1, 66, 106);
-  }
 
-  h1 {
-    color: rgb(1, 66, 106);
+h1 {
+  color: #27466bff;
+}
+
+h2 {
+  color: rgb(43, 80, 122);
+}
+
+h3 {
+  color: rgb(43, 80, 122);
+}
+
+// h2 {
+//   color: rgb(28, 74, 104);
+// }
+
+// h1 {
+//   color: rgb(1, 66, 106);
+// }
+
+
+  .navbar {
+    // background-image: url("Resources/Images/EcolePolytechnique.jpg");
+    // background-color: #00436d;
+    background-size: cover; /* Adjust as needed */
+    background-position: center;
+    // height: 120px; /* Adjust this value as needed */
+    display: flex;
+    align-items: center; /* Center-aligns the content vertically */
   }
+  
