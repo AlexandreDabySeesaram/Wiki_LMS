@@ -22,6 +22,7 @@ Here, you will find:
 * **Journal Club**: The schedule and prospects of past and future journal club sessions
 * **Scientific literature**: A list of the scientific papers shared by members of the lab
 * **Usefull resources**: A list of useful resources for our scientific activities (writing, computing, presenting, etc)
+* **Welcome guide**: A list of useful pieces of information for every newcomer to the lab
 
 ## {{< iconify fa6-solid:circle-info >}} &nbsp; How to contribute
 
