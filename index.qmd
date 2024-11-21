@@ -23,7 +23,12 @@ Here, you will find:
 * **Scientific literature**: A list of the scientific papers shared by members of the lab
 * **Usefull resources**: A list of useful resources for our scientific activities (writing, computing, presenting, etc)
 
-## {{< iconify fa6-solid:circle-info >}} &nbsp; How to add resources
+## {{< iconify fa6-solid:circle-info >}} &nbsp; How to contribute
+
+### {{< iconify fa6-solid:align-left >}} &nbsp; Change text
+Just open the corresponding markdown file in the github, modify it however you want and commit the changes, that's it !
+
+### {{< iconify fa6-solid:paperclip >}} &nbsp; Add resources
  Add the resource (pdf, svg, etc) in the `Resources/Documents/YourSubfolderOfChoice` folder and reference it in markdown `[text](Resources/Documents/YourSubfolderOfChoice/YourFile)`
 
 
