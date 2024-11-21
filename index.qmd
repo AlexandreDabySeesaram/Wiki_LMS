@@ -1,5 +1,5 @@
 ---
-title: Junior researchers - WIKI
+# title: Junior researchers - WIKI
 image: Resources/Images/LMS.png
 toc: false
 about:
@@ -13,7 +13,7 @@ format:
     page-layout: full
 ---
 
-## Welcome,
+## {{< iconify fa6-solid:book-atlas >}} &nbsp; Welcome,
 This wiki serves as a central hub for all our documentation, resources, shared literature review and more.
 
 Here, you will find:

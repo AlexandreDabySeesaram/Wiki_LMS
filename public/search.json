@@ -65,21 +65,21 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Junior researchers - WIKI",
+    "title": "LMS's wiki",
     "section": "",
     "text": "This wiki serves as a central hub for all our documentation, resources, shared literature review and more.\nHere, you will find:\n\nSeminars: The list of past and future seminars in the lab\nJournal Club: The schedule and prospects of past and future journal club sessions\nScientific literature: A list of the scientific papers shared by members of the lab\nUsefull resources: A list of useful resources for our scientific activities (writing, computing, presenting, etc)"
   },
   {
-    "objectID": "index.html#welcome-to-the-lmss-wiki",
-    "href": "index.html#welcome-to-the-lmss-wiki",
-    "title": "Junior researchers - WIKI",
+    "objectID": "index.html#welcome",
+    "href": "index.html#welcome",
+    "title": "LMS's wiki",
     "section": "",
     "text": "This wiki serves as a central hub for all our documentation, resources, shared literature review and more.\nHere, you will find:\n\nSeminars: The list of past and future seminars in the lab\nJournal Club: The schedule and prospects of past and future journal club sessions\nScientific literature: A list of the scientific papers shared by members of the lab\nUsefull resources: A list of useful resources for our scientific activities (writing, computing, presenting, etc)"
   },
   {
     "objectID": "index.html#how-to-add-resources",
     "href": "index.html#how-to-add-resources",
-    "title": "Junior researchers - WIKI",
+    "title": "LMS's wiki",
     "section": "   How to add resources",
     "text": "How to add resources\nAdd the resource (pdf, svg, etc) in the Resources/Documents/YourSubfolderOfChoice folder and reference it in markdown [text](Resources/Documents/YourSubfolderOfChoice/YourFile)"
   }
