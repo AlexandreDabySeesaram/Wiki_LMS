@@ -1,18 +1,20 @@
 ---
 title: Additional resources
-bibliography: Resources/FENNI-PGD.bib
+bibliography: Resources/biblio_web.bib
 format:
   html:
     page-layout: full
 ---
 
-## Latex 
+## {{< iconify fa-solid:pen-nib >}} &nbsp; Scientific writing 
 
 * A Ph.D. thesis template openly available on <a href="https://github.com/floiseau/PhD_Thesis_Template">Github.</a>
 * A beamer template for LMS presentations is available on [Github](https://github.com/AlexandreDabySeesaram/Slideshow_Template)
 * The package [microtype](https://ctan.org/pkg/microtype) helps improving the rendering of long text easily
+* [Quarto](https://quarto.org/) is an open-source librairy that enables to create dynamic scientific documents, presentations, and websites using Markdown, LaTeX, and a variety of programming languages (including python, R, etc.).
 
-## Writing
+
+## {{< iconify fa-solid:envelope >}} &nbsp; Correspondance
 
 <div style="display: flex; align-items: flex-start;">
   
@@ -24,9 +26,59 @@ format:
 
 </div>
 
-## Code
+## {{< iconify fa-solid:code >}} &nbsp; Codes
 
-### NeuROM [@daby-seesaramNeurom2024a]
+### dolfin_mech [@dolfin_mech_2023]
+[![PyPI Downloads](https://img.shields.io/pypi/dm/dolfin-mech.svg?label=PyPI%20downloads)](
+https://pypi.org/project/dolfin-mech/)
+<!-- [![GitHub license](https://img.shields.io/github/license/alexandredabyseesaram/neurom)](https://github.com/alexandredabyseesaram/neurom) -->
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10533833.svg)](https://doi.org/10.5281/zenodo.10533833)
+
+:::: {.columns}
+
+::: {.column width="25%"}
+
+![](Resources/Images/dolfin_mech.png){width="50%" fig-align="center"}
+
+:::
+
+::: {.column width="75%"}
+
+:::: {style='margin-top: 2.5em;'}
+::::
+
+A set of FEniCS-based python tools for Computational Mechanics.
+
+:::
+
+::::
+
+### dolfin_warp [@dolfin_warp_2023]
+[![PyPI Downloads](https://img.shields.io/pypi/dm/dolfin-warp.svg?label=PyPI%20downloads)](https://pypi.org/project/dolfin-warp/)
+<!-- [![GitHub license](https://img.shields.io/github/license/alexandredabyseesaram/neurom)](https://github.com/alexandredabyseesaram/neurom) -->
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.8010786.svg)](https://doi.org/10.5281/zenodo.8010786)
+
+:::: {.columns}
+
+::: {.column width="25%"}
+
+![](Resources/Images/dolfin_warp.png){width="50%" fig-align="center"}
+
+:::
+
+::: {.column width="75%"}
+
+
+
+A set of FEniCS- and VTK-based python tools for Finite Element Digital Image Correlation/Image Registration/Motion Tracking.
+
+<!-- basically implementing the method described in [Genet, Stoeck, von Deuster, Lee & Kozerke (2018). Equilibrated Warping: Finite Element Image Registration with Finite Strain Equilibrium Gap Regularization. Medical Image Analysis, 50, 1–22.](https://doi.org/10.1016/j.media.2018.07.007) and [Genet (2023). Finite strain formulation of the discrete equilibrium gap principle: application to mechanically consistent regularization for large motion tracking. Comptes Rendus Mécanique, 351, 429-458.](https://doi.org/10.5802/crmeca.228). -->
+
+:::
+
+::::
+
+### NeuROM [@neurom_2024]
 [![PyPI Downloads](https://img.shields.io/pypi/dm/NeuROM-Py.svg?label=PyPI%20downloads)](
 https://pypi.org/project/NeuROM-Py/)
 [![GitHub license](https://img.shields.io/github/license/alexandredabyseesaram/neurom)](https://github.com/alexandredabyseesaram/neurom)

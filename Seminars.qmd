@@ -5,6 +5,10 @@ format:
     page-layout: full
 ---
 
+:::: {style='margin-top: 3em;'}
+::::
+
+## {{< iconify fa6-solid:compass-drafting >}} &nbsp; LMS Seminars
 
 | Date           | Speaker                              | Institution                               | Seminar Type |
 |----------------|--------------------------------------|-------------------------------------------|--------------|
@@ -23,3 +27,34 @@ format:
 
 - **Time:** Every Thursday, 14:00 – 15:00 (unless otherwise specified)
 - **Venue:** Amphi 104 (Pôle Mécanique)
+
+:::: {style='margin-top: 3em;'}
+::::
+
+## {{< iconify fa-solid:lungs >}} &nbsp; Mechanobiology seminars
+
+| Date       | Speaker                |
+|------------|-------------------------|
+| 04/11      | Jean-Marc Allain        |
+| 02/12      | Julien Husson           |
+| 06/01      | Irene Vignon-Clementel  |
+| 03/02      | Martin Genet            |
+| 03/03      | Arezki Boudaoud         |
+| 07/04      | Gabriel Amselem         |
+| 05/05      | Claire Leclech          |
+| 02/06      | Jean Boisson            |
+| 07/07      | Chloe Techens           |
+
+- **Time:** 13:00 – 14:00 
+- **Venue:** Amphi 104 (Pôle Mécanique)
+
+## {{< iconify fa6-solid:laptop-code >}} &nbsp; Computational Mechanics at IPP
+
+| Date       | Speaker                |
+|------------|-------------------------|
+| 16/12      | Martin Genet            |
+| 20/01      | hristophe Josserand     |
+| 17/02      | Marc Massot             |
+| 17/03      | Cyril Touzé             |
+| 28/04      | Kostas Danas            |
+| 16/06      | Irene Vignon-Clementel  |

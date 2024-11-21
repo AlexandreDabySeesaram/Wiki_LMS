@@ -1,5 +1,5 @@
 ---
-title: Scientific papers
+title: "{{< iconify fa-solid:book >}} &nbsp; Scientific papers"
 bibliography: Resources/FENNI-PGD.bib
 format:
   html:
@@ -10,14 +10,14 @@ format:
 
 |       Topic            | Ref                                      |
 |------------------------|------------------------------------------|
-|       PGD              | [@chinestaShortReviewModel2011]          |
-|       GNN              | [@matrayHybridNumericalMethodology2024a] |
+|       Blessing of dimensionality - I              | [@gorbanBlessingDimensionalityMathematical2018; @gorbanBlessingDimensionalitySeparation2016]  |
+|       Non-linear operator inference              | [@kramerLearningNonlinearReduced2024] |
 
 ### Modelling
 
 |       Topic            | Ref                                      |
 |------------------------|------------------------------------------|
-|       Damage           | [@lemaitre_engineering_2005]             |
-|       Damage           | [@lemaitre_engineering_2005]             |
+|       Damage mechanics          | [@lemaitre_engineering_2005]             |
+|       Lung poromechanics           | [@patteQuasistaticPoromechanicalModel2022]             |
 
 

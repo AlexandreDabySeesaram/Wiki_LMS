@@ -1,9 +1,12 @@
 ---
-title: Journal club
+title: "{{< iconify fa6-solid:person-chalkboard >}} &nbsp; Journal club"
 format:
   html:
     page-layout: full
 ---
+
+:::: {style='margin-top: 3em;'}
+::::
 
 | Date           | Speaker                              | Title                                     | Seminar Type |
 |----------------|--------------------------------------|-------------------------------------------|--------------|
@@ -11,5 +14,5 @@ format:
 | November 19    | XXXX                                 |                                           | Review       |
 
 
-- **Time:** XXXX
-- **Venue:** XXXX
+- **Time:** 12:30 on Tuesdays
+- **Venue:** L18 meeting room

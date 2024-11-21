@@ -1,5 +1,5 @@
 ---
-title: Laboratoire de Mécanique des Solides (LMS), École Polytechnique
+title: Junior researchers - WIKI
 image: Resources/Images/LMS.png
 toc: false
 about:
