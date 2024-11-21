@@ -53,7 +53,7 @@ format:
 | Date       | Speaker                |
 |------------|-------------------------|
 | 16/12      | Martin Genet            |
-| 20/01      | hristophe Josserand     |
+| 20/01      | Christophe Josserand     |
 | 17/02      | Marc Massot             |
 | 17/03      | Cyril Touzé             |
 | 28/04      | Kostas Danas            |
