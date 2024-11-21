@@ -1,5 +1,26 @@
 [
   {
+    "objectID": "WelcomeGuide.html#servers",
+    "href": "WelcomeGuide.html#servers",
+    "title": "Welcome Guide",
+    "section": "   Servers",
+    "text": "Servers"
+  },
+  {
+    "objectID": "WelcomeGuide.html#cnrs-latex",
+    "href": "WelcomeGuide.html#cnrs-latex",
+    "title": "Welcome Guide",
+    "section": "   CNRS latex",
+    "text": "CNRS latex\nThe CNRS host an overleaf-based collaborative latex plateform called plmlatex, that you can access with you Polytechnique credentials."
+  },
+  {
+    "objectID": "WelcomeGuide.html#cnrs-cloud-storage",
+    "href": "WelcomeGuide.html#cnrs-cloud-storage",
+    "title": "Welcome Guide",
+    "section": "   CNRS cloud storage",
+    "text": "CNRS cloud storage\nsDrive is a tool for synchronisation and sharing of professional data. It replaces certain tools such as OneDrive or Dropbox. You can access your storage area (100GB) with you Polytechnique credentials."
+  },
+  {
     "objectID": "WelcomeGuide.html#coffee",
     "href": "WelcomeGuide.html#coffee",
     "title": "Welcome Guide",
