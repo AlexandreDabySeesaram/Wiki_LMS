@@ -14,3 +14,4 @@ There a **jura coffee machine** in the cafeteria. To use it you can ask **Alexis
 
 We use those sheets to manage our shared coffee supply. Each sheet represents a *ration* of 30 cups of coffee. As people take coffee, they cross off one of the 30 boxes. When all boxes are crossed it's time to buy a new sheet.
 
+## {{< iconify fa6-solid:utensils >}} &nbsp; Magnan
