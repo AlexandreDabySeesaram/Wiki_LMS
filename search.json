@@ -1,71 +1,85 @@
 [
   {
-    "objectID": "Seminars.html",
-    "href": "Seminars.html",
+    "objectID": "Seminars.html#lms-seminars",
+    "href": "Seminars.html#lms-seminars",
     "title": "Seminars",
-    "section": "",
-    "text": "Date\nSpeaker\nInstitution\nSeminar Type\n\n\n\n\nSeptember 19\nAdrien Baldit\nUniversité de Lorraine\nLMS Seminar\n\n\nSeptember 26\nArthur Despres\nGrenoble INP, Université Grenoble Alpes\nLMS Seminar\n\n\nOctober 03\nHao Gao\nUniversity of Glasgow\nLMS Seminar\n\n\nOctober 10\nJean-Charles Passieux\nINSA de Toulouse\nLMS Seminar\n\n\nOctober 17\nBenoît Roman\nPMMH – ESPCI, Paris\nLMS Seminar\n\n\nNovember 07\nAngkur Jyoti Dipanka Shaikeea\nUniversity of Cambridge\nLMS Seminar\n\n\nNovember 14\nMEDISIM seminars and workshop\n(all day)\nMEDISIM\n\n\nNovember 21\nMartina Bramberger\nNorthWest Research Associates, Boulder\nMECA Seminar\n\n\nNovember 28\n\n\nLMS Seminar\n\n\nDecember 05\nPedro Reis\nEPFL\nLMS Seminar\n\n\nDecember 11\nTriona Lally\nTrinity College Dublin\nMECA Seminar\n\n\nDecember 19\nMarie-Agathe Charpagne\nUniversity of Illinois Urbana-Champaign\nLMS Seminar\n\n\n\n\nTime: Every Thursday, 14:00 – 15:00 (unless otherwise specified)\nVenue: Amphi 104 (Pôle Mécanique)"
+    "section": "   LMS Seminars",
+    "text": "LMS Seminars\n\n\n\n\n\n\n\n\n\nDate\nSpeaker\nInstitution\nSeminar Type\n\n\n\n\nSeptember 19\nAdrien Baldit\nUniversité de Lorraine\nLMS Seminar\n\n\nSeptember 26\nArthur Despres\nGrenoble INP, Université Grenoble Alpes\nLMS Seminar\n\n\nOctober 03\nHao Gao\nUniversity of Glasgow\nLMS Seminar\n\n\nOctober 10\nJean-Charles Passieux\nINSA de Toulouse\nLMS Seminar\n\n\nOctober 17\nBenoît Roman\nPMMH – ESPCI, Paris\nLMS Seminar\n\n\nNovember 07\nAngkur Jyoti Dipanka Shaikeea\nUniversity of Cambridge\nLMS Seminar\n\n\nNovember 14\nMEDISIM seminars and workshop\n(all day)\nMEDISIM\n\n\nNovember 21\nMartina Bramberger\nNorthWest Research Associates, Boulder\nMECA Seminar\n\n\nNovember 28\n\n\nLMS Seminar\n\n\nDecember 05\nPedro Reis\nEPFL\nLMS Seminar\n\n\nDecember 11\nTriona Lally\nTrinity College Dublin\nMECA Seminar\n\n\nDecember 19\nMarie-Agathe Charpagne\nUniversity of Illinois Urbana-Champaign\nLMS Seminar\n\n\n\n\nTime: Every Thursday, 14:00 – 15:00 (unless otherwise specified)\nVenue: Amphi 104 (Pôle Mécanique)"
+  },
+  {
+    "objectID": "Seminars.html#mechanobiology-seminars",
+    "href": "Seminars.html#mechanobiology-seminars",
+    "title": "Seminars",
+    "section": "   Mechanobiology seminars",
+    "text": "Mechanobiology seminars\n\n\n\nDate\nSpeaker\n\n\n\n\n04/11\nJean-Marc Allain\n\n\n02/12\nJulien Husson\n\n\n06/01\nIrene Vignon-Clementel\n\n\n03/02\nMartin Genet\n\n\n03/03\nArezki Boudaoud\n\n\n07/04\nGabriel Amselem\n\n\n05/05\nClaire Leclech\n\n\n02/06\nJean Boisson\n\n\n07/07\nChloe Techens\n\n\n\n\nTime: 13:00 – 14:00\nVenue: Amphi 104 (Pôle Mécanique)"
+  },
+  {
+    "objectID": "Seminars.html#computational-mechanics-at-ipp",
+    "href": "Seminars.html#computational-mechanics-at-ipp",
+    "title": "Seminars",
+    "section": "   Computational Mechanics at IPP",
+    "text": "Computational Mechanics at IPP\n\n\n\nDate\nSpeaker\n\n\n\n\n16/12\nMartin Genet\n\n\n20/01\nhristophe Josserand\n\n\n17/02\nMarc Massot\n\n\n17/03\nCyril Touzé\n\n\n28/04\nKostas Danas\n\n\n16/06\nIrene Vignon-Clementel"
   },
   {
     "objectID": "JournalClub.html",
     "href": "JournalClub.html",
-    "title": "Journal club",
+    "title": "   Journal club",
     "section": "",
-    "text": "Date\nSpeaker\nTitle\nSeminar Type\n\n\n\n\nNovember 12\nAlexandre\nFENNI-PGD: non-linear surrogate modelling\nKeynote\n\n\nNovember 19\nXXXX\n\nReview\n\n\n\n\nTime: XXXX\nVenue: XXXX"
+    "text": "Date\nSpeaker\nTitle\nSeminar Type\n\n\n\n\nNovember 12\nAlexandre\nFENNI-PGD: non-linear surrogate modelling\nKeynote\n\n\nNovember 19\nXXXX\n\nReview\n\n\n\n\nTime: 12:30 on Tuesdays\nVenue: L18 meeting room"
   },
   {
     "objectID": "LitReview.html",
     "href": "LitReview.html",
-    "title": "Scientific papers",
+    "title": "   Scientific papers",
     "section": "",
-    "text": "Reduced-order modelling\n\n\n\nTopic\nRef\n\n\n\n\nPGD\n(Chinesta, Ladeveze, and Cueto 2011)\n\n\nGNN\n(Matray et al. 2024)\n\n\n\n\n\nModelling\n\n\n\nTopic\nRef\n\n\n\n\nDamage\n(Lemaître and Desmorat 2005)\n\n\nDamage\n(Lemaître and Desmorat 2005)\n\n\n\n\n\n\n\n\nReferences\n\nChinesta, Francisco, Pierre Ladeveze, and Elías Cueto. 2011. “A Short Review on Model Order Reduction Based on Proper Generalized Decomposition.” Archives of Computational Methods in Engineering 18 (4): 395–404. https://doi.org/10.1007/s11831-011-9064-7.\n\n\nLemaître, J., and R. Desmorat. 2005. Engineering Damage Mechanics: Ductile, Creep, Fatigue and Brittle Failures. Berlin ; New York: Springer.\n\n\nMatray, Victor, Faisal Amlani, Frédéric Feyel, and David Néron. 2024. “A Hybrid Numerical Methodology Coupling Reduced Order Modeling and Graph Neural Networks for Non-Parametric Geometries: Applications to Structural Dynamics Problems.” Computer Methods in Applied Mechanics and Engineering 430 (October): 117243. https://doi.org/10.1016/j.cma.2024.117243."
+    "text": "Reduced-order modelling\n\n\n\n\n\n\n\nTopic\nRef\n\n\n\n\nBlessing of dimensionality - I\n(A. N. Gorban and Tyukin 2018; Alexander N. Gorban, Tyukin, and Romanenko 2016)\n\n\nNon-linear operator inference\n(Kramer, Peherstorfer, and Willcox 2024)\n\n\n\n\n\nModelling\n\n\n\n\n\n\n\nTopic\nRef\n\n\n\n\nDamage mechanics\n(Lemaître and Desmorat 2005)\n\n\nLung poromechanics\n(Patte, Genet, and Chapelle 2022)\n\n\n\n\n\n\n\n\nReferences\n\nGorban, A. N., and I. Y. Tyukin. 2018. “Blessing of Dimensionality: Mathematical Foundations of the Statistical Physics of Data.” Philosophical Transactions of the Royal Society A: Mathematical, Physical and Engineering Sciences 376 (2118): 20170237. https://doi.org/10.1098/rsta.2017.0237.\n\n\nGorban, Alexander N., Ivan Yu. Tyukin, and Ilya Romanenko. 2016. “The Blessing of Dimensionality: Separation Theorems in the Thermodynamic Limit*.” IFAC-PapersOnLine, 2th IFAC Workshop on Thermodynamic Foundations for a Mathematical Systems Theory TFMST 2016, 49 (24): 64–69. https://doi.org/10.1016/j.ifacol.2016.10.755.\n\n\nKramer, Boris, Benjamin Peherstorfer, and Karen E. Willcox. 2024. “Learning Nonlinear Reduced Models from Data with Operator Inference.” Annual Review of Fluid Mechanics 56 (1): 521–48. https://doi.org/10.1146/annurev-fluid-121021-025220.\n\n\nLemaître, J., and R. Desmorat. 2005. Engineering Damage Mechanics: Ductile, Creep, Fatigue and Brittle Failures. Berlin ; New York: Springer.\n\n\nPatte, Cécile, Martin Genet, and Dominique Chapelle. 2022. “A Quasi-Static Poromechanical Model of the Lungs.” Biomechanics and Modeling in Mechanobiology 21 (2): 527–51. https://doi.org/10.1007/s10237-021-01547-0."
   },
   {
     "objectID": "AddResources.html",
     "href": "AddResources.html",
     "title": "Additional resources",
     "section": "",
-    "text": "A Ph.D. thesis template openly available on Github.\nA beamer template for LMS presentations is available on Github\nThe package microtype helps improving the rendering of long text easily"
+    "text": "A Ph.D. thesis template openly available on Github.\nA beamer template for LMS presentations is available on Github\nThe package microtype helps improving the rendering of long text easily\nQuarto is an open-source librairy that enables to create dynamic scientific documents, presentations, and websites using Markdown, LaTeX, and a variety of programming languages (including python, R, etc.)."
   },
   {
-    "objectID": "AddResources.html#latex",
-    "href": "AddResources.html#latex",
+    "objectID": "AddResources.html#scientific-writing",
+    "href": "AddResources.html#scientific-writing",
     "title": "Additional resources",
     "section": "",
-    "text": "A Ph.D. thesis template openly available on Github.\nA beamer template for LMS presentations is available on Github\nThe package microtype helps improving the rendering of long text easily"
+    "text": "A Ph.D. thesis template openly available on Github.\nA beamer template for LMS presentations is available on Github\nThe package microtype helps improving the rendering of long text easily\nQuarto is an open-source librairy that enables to create dynamic scientific documents, presentations, and websites using Markdown, LaTeX, and a variety of programming languages (including python, R, etc.)."
   },
   {
-    "objectID": "AddResources.html#writing",
-    "href": "AddResources.html#writing",
+    "objectID": "AddResources.html#correspondance",
+    "href": "AddResources.html#correspondance",
     "title": "Additional resources",
-    "section": "Writing",
-    "text": "Writing\n\n\n\n\nCover letter\n\n\n\nHere is a template for cover letters using a Polytechnique letter format."
+    "section": "   Correspondance",
+    "text": "Correspondance\n\n\n\n\nCover letter\n\n\n\nHere is a template for cover letters using a Polytechnique letter format."
   },
   {
-    "objectID": "AddResources.html#code",
-    "href": "AddResources.html#code",
+    "objectID": "AddResources.html#codes",
+    "href": "AddResources.html#codes",
     "title": "Additional resources",
-    "section": "Code",
-    "text": "Code\n\nNeuROM (Daby-Seesaram, Škardová, and Genet 2024)\n  \n\n\n\n\n\n\n\n\n\n\n\nThe reduced-order modelling code used to create surrogate models based on an hybridisation of standard reduced-order modelling methods such as the PGD and Deep learning methods is public and notebooks with tutorials are also available."
+    "section": "   Codes",
+    "text": "Codes\n\ndolfin_mech (Genet et al. 2023)\n  \n\n\n\n\n\n\n\n\n\n\n\nA set of FEniCS-based python tools for Computational Mechanics.\n\n\n\n\ndolfin_warp (Genet 2023)\n  \n\n\n\n\n\n\n\n\nA set of FEniCS- and VTK-based python tools for Finite Element Digital Image Correlation/Image Registration/Motion Tracking.\n\n\n\n\n\nNeuROM (Daby-Seesaram, Skardova, and Genet 2024)\n  \n\n\n\n\n\n\n\n\n\n\n\nThe reduced-order modelling code used to create surrogate models based on an hybridisation of standard reduced-order modelling methods such as the PGD and Deep learning methods is public and notebooks with tutorials are also available."
   },
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Laboratoire de Mécanique des Solides (LMS), École Polytechnique",
+    "title": "Junior researchers - WIKI",
     "section": "",
     "text": "This wiki serves as a central hub for all our documentation, resources, shared literature review and more.\nHere, you will find:\n\nSeminars: The list of past and future seminars in the lab\nJournal Club: The schedule and prospects of past and future journal club sessions\nSScientific literature: A list of the scientific papers shared by members of the lab\nUsefull resources: A list of useful resources for our scientific activities (writing, computing, presenting, etc)"
   },
   {
     "objectID": "index.html#welcome-to-the-lmss-wiki",
     "href": "index.html#welcome-to-the-lmss-wiki",
-    "title": "Laboratoire de Mécanique des Solides (LMS), École Polytechnique",
+    "title": "Junior researchers - WIKI",
     "section": "",
     "text": "This wiki serves as a central hub for all our documentation, resources, shared literature review and more.\nHere, you will find:\n\nSeminars: The list of past and future seminars in the lab\nJournal Club: The schedule and prospects of past and future journal club sessions\nSScientific literature: A list of the scientific papers shared by members of the lab\nUsefull resources: A list of useful resources for our scientific activities (writing, computing, presenting, etc)"
   },
   {
     "objectID": "index.html#how-to-add-resources",
     "href": "index.html#how-to-add-resources",
-    "title": "Laboratoire de Mécanique des Solides (LMS), École Polytechnique",
+    "title": "Junior researchers - WIKI",
     "section": "How to add resources",
     "text": "How to add resources\nAdd the resource (pdf, svg, etc) in the Resources/Documents/YourSubfolderOfChoice folder and reference it in markdown [text](Resources/Documents/YourSubfolderOfChoice/YourFile)"
   }
