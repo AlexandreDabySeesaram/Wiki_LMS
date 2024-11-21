@@ -1,23 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://AlexandreDabySeesaram.github.io/Wiki_LMS/Seminars.html</loc>
-    <lastmod>2024-11-21T15:58:27.533Z</lastmod>
-  </url>
-  <url>
-    <loc>https://AlexandreDabySeesaram.github.io/Wiki_LMS/JournalClub.html</loc>
-    <lastmod>2024-11-21T15:58:27.525Z</lastmod>
-  </url>
-  <url>
-    <loc>https://AlexandreDabySeesaram.github.io/Wiki_LMS/LitReview.html</loc>
-    <lastmod>2024-11-21T15:58:27.525Z</lastmod>
-  </url>
-  <url>
-    <loc>https://AlexandreDabySeesaram.github.io/Wiki_LMS/AddResources.html</loc>
-    <lastmod>2024-11-21T15:58:27.525Z</lastmod>
+    <loc>https://AlexandreDabySeesaram.github.io/Wiki_LMS/WelcomeGuide.html</loc>
+    <lastmod>2024-11-21T16:39:41.209Z</lastmod>
   </url>
   <url>
     <loc>https://AlexandreDabySeesaram.github.io/Wiki_LMS/index.html</loc>
-    <lastmod>2024-11-21T15:58:27.545Z</lastmod>
+    <lastmod>2024-11-21T16:39:41.221Z</lastmod>
+  </url>
+  <url>
+    <loc>https://AlexandreDabySeesaram.github.io/Wiki_LMS/AddResources.html</loc>
+    <lastmod>2024-11-21T16:39:41.205Z</lastmod>
+  </url>
+  <url>
+    <loc>https://AlexandreDabySeesaram.github.io/Wiki_LMS/LitReview.html</loc>
+    <lastmod>2024-11-21T16:39:41.205Z</lastmod>
+  </url>
+  <url>
+    <loc>https://AlexandreDabySeesaram.github.io/Wiki_LMS/JournalClub.html</loc>
+    <lastmod>2024-11-21T16:39:41.205Z</lastmod>
+  </url>
+  <url>
+    <loc>https://AlexandreDabySeesaram.github.io/Wiki_LMS/Seminars.html</loc>
+    <lastmod>2024-11-21T16:39:41.209Z</lastmod>
   </url>
 </urlset>
