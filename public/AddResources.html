@@ -131,6 +131,10 @@ div.csl-indent {
     <a class="nav-link active" href="./AddResources.html" aria-current="page"> 
 <span class="menu-text">Resources</span></a>
   </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./WelcomeGuide.html"> 
+<span class="menu-text">Welcome Guide</span></a>
+  </li>  
 </ul>
           </div> <!-- /navcollapse -->
             <div class="quarto-navbar-tools">
@@ -187,7 +191,15 @@ div.csl-indent {
 <li>A Ph.D.&nbsp;thesis template openly available on <a href="https://github.com/floiseau/PhD_Thesis_Template">Github.</a></li>
 <li>A beamer template for LMS presentations is available on <a href="https://github.com/AlexandreDabySeesaram/Slideshow_Template">Github</a></li>
 <li>The package <a href="https://ctan.org/pkg/microtype">microtype</a> helps improving the rendering of long text easily</li>
-<li><a href="https://quarto.org/">Quarto</a> is an open-source librairy that enables to create dynamic scientific documents, presentations, and websites using Markdown, LaTeX, and a variety of programming languages (including python, R, etc.).</li>
+<li><a href="https://quarto.org/">Quarto</a> is an open-source librairy that enables to create dynamic scientific documents, presentations, and websites using Markdown, LaTeX, and a variety of programming languages (including python, R, etc.).
+<ul>
+<li>The html presentations can then be translated into pdfs using <a href="https://github.com/astefanutti/decktape">decktape</a>.
+<ul>
+<li>install node <code>brew install node</code></li>
+<li>install decktape <code>npm install -g decktape</code></li>
+<li><code>reveal --size=1600x1000 presentation.html presentation.pdf</code></li>
+</ul></li>
+</ul></li>
 </ul>
 </section>
 <section id="correspondance" class="level2">

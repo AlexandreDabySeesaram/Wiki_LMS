@@ -21,6 +21,8 @@ website:
         text: Scientific literature
       - href: AddResources.qmd
         text: Resources
+      - href: WelcomeGuide.qmd
+        text: Welcome Guide
   # announcement: 
   #   icon: info-circle
   #   dismissable: true

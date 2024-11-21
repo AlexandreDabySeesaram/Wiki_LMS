@@ -1,10 +1,66 @@
 [
   {
-    "objectID": "LitReview.html",
-    "href": "LitReview.html",
-    "title": "   Scientific papers",
+    "objectID": "WelcomeGuide.html#coffee",
+    "href": "WelcomeGuide.html#coffee",
+    "title": "Welcome Guide",
+    "section": "   Coffee",
+    "text": "Coffee\nThere a jura coffee machine in the cafeteria. To use it you can ask Alexis (office xxx) to sell you a Coffee allocation sheet.\nWe use those sheet to manage our shared coffee supply. Each sheet represents a ration of 30 cups of coffee. When a sheet is purchased, it gives the team the right to consume 30 cups of coffee in total. As people take coffee, they cross off one of the 30 boxes. When all boxes are crossed it’s time to buy a new sheet."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "LMS's wiki",
     "section": "",
-    "text": "Reduced-order modelling\n\n\n\n\n\n\n\nTopic\nRef\n\n\n\n\nBlessing of dimensionality - I\n(A. N. Gorban and Tyukin 2018; Alexander N. Gorban, Tyukin, and Romanenko 2016)\n\n\nNon-linear operator inference\n(Kramer, Peherstorfer, and Willcox 2024)\n\n\n\n\n\nModelling\n\n\n\n\n\n\n\nTopic\nRef\n\n\n\n\nDamage mechanics\n(Lemaître and Desmorat 2005)\n\n\nLung poromechanics\n(Patte, Genet, and Chapelle 2022)\n\n\n\n\n\n\n\n\nReferences\n\nGorban, A. N., and I. Y. Tyukin. 2018. “Blessing of Dimensionality: Mathematical Foundations of the Statistical Physics of Data.” Philosophical Transactions of the Royal Society A: Mathematical, Physical and Engineering Sciences 376 (2118): 20170237. https://doi.org/10.1098/rsta.2017.0237.\n\n\nGorban, Alexander N., Ivan Yu. Tyukin, and Ilya Romanenko. 2016. “The Blessing of Dimensionality: Separation Theorems in the Thermodynamic Limit*.” IFAC-PapersOnLine, 2th IFAC Workshop on Thermodynamic Foundations for a Mathematical Systems Theory TFMST 2016, 49 (24): 64–69. https://doi.org/10.1016/j.ifacol.2016.10.755.\n\n\nKramer, Boris, Benjamin Peherstorfer, and Karen E. Willcox. 2024. “Learning Nonlinear Reduced Models from Data with Operator Inference.” Annual Review of Fluid Mechanics 56 (1): 521–48. https://doi.org/10.1146/annurev-fluid-121021-025220.\n\n\nLemaître, J., and R. Desmorat. 2005. Engineering Damage Mechanics: Ductile, Creep, Fatigue and Brittle Failures. Berlin ; New York: Springer.\n\n\nPatte, Cécile, Martin Genet, and Dominique Chapelle. 2022. “A Quasi-Static Poromechanical Model of the Lungs.” Biomechanics and Modeling in Mechanobiology 21 (2): 527–51. https://doi.org/10.1007/s10237-021-01547-0."
+    "text": "This wiki serves as a central hub for all our documentation, resources, shared literature review and more.\nHere, you will find:\n\nSeminars: The list of past and future seminars in the lab\nJournal Club: The schedule and prospects of past and future journal club sessions\nScientific literature: A list of the scientific papers shared by members of the lab\nUsefull resources: A list of useful resources for our scientific activities (writing, computing, presenting, etc)"
+  },
+  {
+    "objectID": "index.html#welcome",
+    "href": "index.html#welcome",
+    "title": "LMS's wiki",
+    "section": "",
+    "text": "This wiki serves as a central hub for all our documentation, resources, shared literature review and more.\nHere, you will find:\n\nSeminars: The list of past and future seminars in the lab\nJournal Club: The schedule and prospects of past and future journal club sessions\nScientific literature: A list of the scientific papers shared by members of the lab\nUsefull resources: A list of useful resources for our scientific activities (writing, computing, presenting, etc)"
+  },
+  {
+    "objectID": "index.html#how-to-contribute",
+    "href": "index.html#how-to-contribute",
+    "title": "LMS's wiki",
+    "section": "   How to contribute",
+    "text": "How to contribute\n\n   Change text\nJust open the corresponding markdown file in the github, modify it however you want and commit the changes, that’s it !\n\n\n   Add resources\nAdd the resource (pdf, svg, etc) in the Resources/Documents/YourSubfolderOfChoice folder and reference it in markdown [text](Resources/Documents/YourSubfolderOfChoice/YourFile)"
+  },
+  {
+    "objectID": "JournalClub.html",
+    "href": "JournalClub.html",
+    "title": "   Journal club",
+    "section": "",
+    "text": "Date\nSpeaker\nTitle\nSeminar Type\n\n\n\n\nNovember 12\nAlexandre\nFENNI-PGD: non-linear surrogate modelling\nKeynote\n\n\nNovember 19\nXXXX\n\nReview\n\n\n\n\nTime: 12:30 on Tuesdays\nVenue: L18 meeting room"
+  },
+  {
+    "objectID": "AddResources.html",
+    "href": "AddResources.html",
+    "title": "Additional resources",
+    "section": "",
+    "text": "A Ph.D. thesis template openly available on Github.\nA beamer template for LMS presentations is available on Github\nThe package microtype helps improving the rendering of long text easily\nQuarto is an open-source librairy that enables to create dynamic scientific documents, presentations, and websites using Markdown, LaTeX, and a variety of programming languages (including python, R, etc.).\n\nThe html presentations can then be translated into pdfs using decktape.\n\ninstall node brew install node\ninstall decktape npm install -g decktape\nreveal --size=1600x1000 presentation.html presentation.pdf"
+  },
+  {
+    "objectID": "AddResources.html#scientific-writing",
+    "href": "AddResources.html#scientific-writing",
+    "title": "Additional resources",
+    "section": "",
+    "text": "A Ph.D. thesis template openly available on Github.\nA beamer template for LMS presentations is available on Github\nThe package microtype helps improving the rendering of long text easily\nQuarto is an open-source librairy that enables to create dynamic scientific documents, presentations, and websites using Markdown, LaTeX, and a variety of programming languages (including python, R, etc.).\n\nThe html presentations can then be translated into pdfs using decktape.\n\ninstall node brew install node\ninstall decktape npm install -g decktape\nreveal --size=1600x1000 presentation.html presentation.pdf"
+  },
+  {
+    "objectID": "AddResources.html#correspondance",
+    "href": "AddResources.html#correspondance",
+    "title": "Additional resources",
+    "section": "   Correspondance",
+    "text": "Correspondance\n\n\n\n\nCover letter\n\n\n\nHere is a template for cover letters using a Polytechnique letter format."
+  },
+  {
+    "objectID": "AddResources.html#codes",
+    "href": "AddResources.html#codes",
+    "title": "Additional resources",
+    "section": "   Codes",
+    "text": "Codes\n\ndolfin_mech (Genet et al. 2023)\n  \n\n\n\n\n\n\n\n\n\n\n\nA set of FEniCS-based python tools for Computational Mechanics.\n\n\n\n\ndolfin_warp (Genet 2023)\n  \n\n\n\n\n\n\n\n\nA set of FEniCS- and VTK-based python tools for Finite Element Digital Image Correlation/Image Registration/Motion Tracking.\n\n\n\n\n\nNeuROM (Daby-Seesaram, Skardova, and Genet 2024)\n  \n\n\n\n\n\n\n\n\n\n\n\nThe reduced-order modelling code used to create surrogate models based on an hybridisation of standard reduced-order modelling methods such as the PGD and Deep learning methods is public and notebooks with tutorials are also available."
   },
   {
     "objectID": "Seminars.html#lms-seminars",
@@ -28,59 +84,10 @@
     "text": "Computational Mechanics at IPP\n\n\n\nDate\nSpeaker\n\n\n\n\n16/12\nMartin Genet\n\n\n20/01\nChristophe Josserand\n\n\n17/02\nMarc Massot\n\n\n17/03\nCyril Touzé\n\n\n28/04\nKostas Danas\n\n\n16/06\nIrene Vignon-Clementel"
   },
   {
-    "objectID": "AddResources.html",
-    "href": "AddResources.html",
-    "title": "Additional resources",
+    "objectID": "LitReview.html",
+    "href": "LitReview.html",
+    "title": "   Scientific papers",
     "section": "",
-    "text": "A Ph.D. thesis template openly available on Github.\nA beamer template for LMS presentations is available on Github\nThe package microtype helps improving the rendering of long text easily\nQuarto is an open-source librairy that enables to create dynamic scientific documents, presentations, and websites using Markdown, LaTeX, and a variety of programming languages (including python, R, etc.)."
-  },
-  {
-    "objectID": "AddResources.html#scientific-writing",
-    "href": "AddResources.html#scientific-writing",
-    "title": "Additional resources",
-    "section": "",
-    "text": "A Ph.D. thesis template openly available on Github.\nA beamer template for LMS presentations is available on Github\nThe package microtype helps improving the rendering of long text easily\nQuarto is an open-source librairy that enables to create dynamic scientific documents, presentations, and websites using Markdown, LaTeX, and a variety of programming languages (including python, R, etc.)."
-  },
-  {
-    "objectID": "AddResources.html#correspondance",
-    "href": "AddResources.html#correspondance",
-    "title": "Additional resources",
-    "section": "   Correspondance",
-    "text": "Correspondance\n\n\n\n\nCover letter\n\n\n\nHere is a template for cover letters using a Polytechnique letter format."
-  },
-  {
-    "objectID": "AddResources.html#codes",
-    "href": "AddResources.html#codes",
-    "title": "Additional resources",
-    "section": "   Codes",
-    "text": "Codes\n\ndolfin_mech (Genet et al. 2023)\n  \n\n\n\n\n\n\n\n\n\n\n\nA set of FEniCS-based python tools for Computational Mechanics.\n\n\n\n\ndolfin_warp (Genet 2023)\n  \n\n\n\n\n\n\n\n\nA set of FEniCS- and VTK-based python tools for Finite Element Digital Image Correlation/Image Registration/Motion Tracking.\n\n\n\n\n\nNeuROM (Daby-Seesaram, Skardova, and Genet 2024)\n  \n\n\n\n\n\n\n\n\n\n\n\nThe reduced-order modelling code used to create surrogate models based on an hybridisation of standard reduced-order modelling methods such as the PGD and Deep learning methods is public and notebooks with tutorials are also available."
-  },
-  {
-    "objectID": "JournalClub.html",
-    "href": "JournalClub.html",
-    "title": "   Journal club",
-    "section": "",
-    "text": "Date\nSpeaker\nTitle\nSeminar Type\n\n\n\n\nNovember 12\nAlexandre\nFENNI-PGD: non-linear surrogate modelling\nKeynote\n\n\nNovember 19\nXXXX\n\nReview\n\n\n\n\nTime: 12:30 on Tuesdays\nVenue: L18 meeting room"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "LMS's wiki",
-    "section": "",
-    "text": "This wiki serves as a central hub for all our documentation, resources, shared literature review and more.\nHere, you will find:\n\nSeminars: The list of past and future seminars in the lab\nJournal Club: The schedule and prospects of past and future journal club sessions\nScientific literature: A list of the scientific papers shared by members of the lab\nUsefull resources: A list of useful resources for our scientific activities (writing, computing, presenting, etc)"
-  },
-  {
-    "objectID": "index.html#welcome",
-    "href": "index.html#welcome",
-    "title": "LMS's wiki",
-    "section": "",
-    "text": "This wiki serves as a central hub for all our documentation, resources, shared literature review and more.\nHere, you will find:\n\nSeminars: The list of past and future seminars in the lab\nJournal Club: The schedule and prospects of past and future journal club sessions\nScientific literature: A list of the scientific papers shared by members of the lab\nUsefull resources: A list of useful resources for our scientific activities (writing, computing, presenting, etc)"
-  },
-  {
-    "objectID": "index.html#how-to-contribute",
-    "href": "index.html#how-to-contribute",
-    "title": "LMS's wiki",
-    "section": "   How to contribute",
-    "text": "How to contribute\n\n   Change text\nJust open the corresponding markdown file in the github, modify it however you want and commit the changes, that’s it !\n\n\n   Add resources\nAdd the resource (pdf, svg, etc) in the Resources/Documents/YourSubfolderOfChoice folder and reference it in markdown [text](Resources/Documents/YourSubfolderOfChoice/YourFile)"
+    "text": "Reduced-order modelling\n\n\n\n\n\n\n\nTopic\nRef\n\n\n\n\nBlessing of dimensionality - I\n(A. N. Gorban and Tyukin 2018; Alexander N. Gorban, Tyukin, and Romanenko 2016)\n\n\nNon-linear operator inference\n(Kramer, Peherstorfer, and Willcox 2024)\n\n\n\n\n\nModelling\n\n\n\n\n\n\n\nTopic\nRef\n\n\n\n\nDamage mechanics\n(Lemaître and Desmorat 2005)\n\n\nLung poromechanics\n(Patte, Genet, and Chapelle 2022)\n\n\n\n\n\n\n\n\nReferences\n\nGorban, A. N., and I. Y. Tyukin. 2018. “Blessing of Dimensionality: Mathematical Foundations of the Statistical Physics of Data.” Philosophical Transactions of the Royal Society A: Mathematical, Physical and Engineering Sciences 376 (2118): 20170237. https://doi.org/10.1098/rsta.2017.0237.\n\n\nGorban, Alexander N., Ivan Yu. Tyukin, and Ilya Romanenko. 2016. “The Blessing of Dimensionality: Separation Theorems in the Thermodynamic Limit*.” IFAC-PapersOnLine, 2th IFAC Workshop on Thermodynamic Foundations for a Mathematical Systems Theory TFMST 2016, 49 (24): 64–69. https://doi.org/10.1016/j.ifacol.2016.10.755.\n\n\nKramer, Boris, Benjamin Peherstorfer, and Karen E. Willcox. 2024. “Learning Nonlinear Reduced Models from Data with Operator Inference.” Annual Review of Fluid Mechanics 56 (1): 521–48. https://doi.org/10.1146/annurev-fluid-121021-025220.\n\n\nLemaître, J., and R. Desmorat. 2005. Engineering Damage Mechanics: Ductile, Creep, Fatigue and Brittle Failures. Berlin ; New York: Springer.\n\n\nPatte, Cécile, Martin Genet, and Dominique Chapelle. 2022. “A Quasi-Static Poromechanical Model of the Lungs.” Biomechanics and Modeling in Mechanobiology 21 (2): 527–51. https://doi.org/10.1007/s10237-021-01547-0."
   }
 ]
