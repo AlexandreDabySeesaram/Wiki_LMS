@@ -12,12 +12,12 @@ format:
 
 ## {{< iconify fa6-solid:pen-nib >}} &nbsp; CNRS latex
 
-The CNRS host an overleaf-based collaborative latex plateform called [plmlatex](https://plmlatex.math.cnrs.fr/login), that you can access with you Polytechnique credentials.
+The CNRS hosts an overleaf-based collaborative latex plateform called [plmlatex](https://plmlatex.math.cnrs.fr/login), that you can access with you Polytechnique's credentials.
 
 ## {{< iconify fa6-solid:cloud-arrow-up >}} &nbsp; CNRS cloud storage
 
 [sDrive](https://sdrive.cnrs.fr) is a tool for synchronisation and sharing of professional data.
-It replaces certain tools such as OneDrive or Dropbox. You can access your storage area (100GB) with you Polytechnique credentials.
+It replaces certain tools such as OneDrive or Dropbox. You can access your storage area (100GB) with you Polytechnique's credentials.
 
 ## {{< iconify fa6-solid:mug-saucer >}} &nbsp; Coffee
 
