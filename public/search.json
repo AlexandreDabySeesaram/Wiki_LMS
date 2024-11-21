@@ -25,7 +25,7 @@
     "href": "Seminars.html#computational-mechanics-at-ipp",
     "title": "Seminars",
     "section": "   Computational Mechanics at IPP",
-    "text": "Computational Mechanics at IPP\n\n\n\nDate\nSpeaker\n\n\n\n\n16/12\nMartin Genet\n\n\n20/01\nhristophe Josserand\n\n\n17/02\nMarc Massot\n\n\n17/03\nCyril Touzé\n\n\n28/04\nKostas Danas\n\n\n16/06\nIrene Vignon-Clementel"
+    "text": "Computational Mechanics at IPP\n\n\n\nDate\nSpeaker\n\n\n\n\n16/12\nMartin Genet\n\n\n20/01\nChristophe Josserand\n\n\n17/02\nMarc Massot\n\n\n17/03\nCyril Touzé\n\n\n28/04\nKostas Danas\n\n\n16/06\nIrene Vignon-Clementel"
   },
   {
     "objectID": "AddResources.html",
@@ -67,20 +67,20 @@
     "href": "index.html",
     "title": "Junior researchers - WIKI",
     "section": "",
-    "text": "This wiki serves as a central hub for all our documentation, resources, shared literature review and more.\nHere, you will find:\n\nSeminars: The list of past and future seminars in the lab\nJournal Club: The schedule and prospects of past and future journal club sessions\nSScientific literature: A list of the scientific papers shared by members of the lab\nUsefull resources: A list of useful resources for our scientific activities (writing, computing, presenting, etc)"
+    "text": "This wiki serves as a central hub for all our documentation, resources, shared literature review and more.\nHere, you will find:\n\nSeminars: The list of past and future seminars in the lab\nJournal Club: The schedule and prospects of past and future journal club sessions\nScientific literature: A list of the scientific papers shared by members of the lab\nUsefull resources: A list of useful resources for our scientific activities (writing, computing, presenting, etc)"
   },
   {
     "objectID": "index.html#welcome-to-the-lmss-wiki",
     "href": "index.html#welcome-to-the-lmss-wiki",
     "title": "Junior researchers - WIKI",
     "section": "",
-    "text": "This wiki serves as a central hub for all our documentation, resources, shared literature review and more.\nHere, you will find:\n\nSeminars: The list of past and future seminars in the lab\nJournal Club: The schedule and prospects of past and future journal club sessions\nSScientific literature: A list of the scientific papers shared by members of the lab\nUsefull resources: A list of useful resources for our scientific activities (writing, computing, presenting, etc)"
+    "text": "This wiki serves as a central hub for all our documentation, resources, shared literature review and more.\nHere, you will find:\n\nSeminars: The list of past and future seminars in the lab\nJournal Club: The schedule and prospects of past and future journal club sessions\nScientific literature: A list of the scientific papers shared by members of the lab\nUsefull resources: A list of useful resources for our scientific activities (writing, computing, presenting, etc)"
   },
   {
     "objectID": "index.html#how-to-add-resources",
     "href": "index.html#how-to-add-resources",
     "title": "Junior researchers - WIKI",
-    "section": "How to add resources",
+    "section": "   How to add resources",
     "text": "How to add resources\nAdd the resource (pdf, svg, etc) in the Resources/Documents/YourSubfolderOfChoice folder and reference it in markdown [text](Resources/Documents/YourSubfolderOfChoice/YourFile)"
   }
 ]
