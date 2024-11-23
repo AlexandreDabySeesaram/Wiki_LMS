@@ -1,24 +1,52 @@
 [
   {
+    "objectID": "WelcomeGuide.html#servers",
+    "href": "WelcomeGuide.html#servers",
+    "title": "Welcome Guide",
+    "section": "   Servers",
+    "text": "Servers"
+  },
+  {
+    "objectID": "WelcomeGuide.html#cnrs-latex",
+    "href": "WelcomeGuide.html#cnrs-latex",
+    "title": "Welcome Guide",
+    "section": "   CNRS latex",
+    "text": "CNRS latex\nThe CNRS hosts an overleaf-based collaborative latex plateform called plmlatex, that you can access with you Polytechnique’s credentials."
+  },
+  {
+    "objectID": "WelcomeGuide.html#cnrs-cloud-storage",
+    "href": "WelcomeGuide.html#cnrs-cloud-storage",
+    "title": "Welcome Guide",
+    "section": "   CNRS cloud storage",
+    "text": "CNRS cloud storage\nsDrive is a tool for synchronisation and sharing of professional data. It replaces certain tools such as OneDrive or Dropbox. You can access your storage area (100GB) with you Polytechnique’s credentials."
+  },
+  {
     "objectID": "WelcomeGuide.html#coffee",
     "href": "WelcomeGuide.html#coffee",
     "title": "Welcome Guide",
     "section": "   Coffee",
-    "text": "Coffee\nThere a jura coffee machine in the cafeteria. To use it you can ask Alexis (office xxx) to sell you a Coffee allocation sheet.\nWe use those sheet to manage our shared coffee supply. Each sheet represents a ration of 30 cups of coffee. When a sheet is purchased, it gives the team the right to consume 30 cups of coffee in total. As people take coffee, they cross off one of the 30 boxes. When all boxes are crossed it’s time to buy a new sheet."
+    "text": "Coffee\nThere a jura coffee machine in the cafeteria. To use it you can ask Alexis (office xxx) to sell you a Coffee allocation sheet.\nWe use those sheets to manage our shared coffee supply. Each sheet represents a ration of 30 cups of coffee. As people take coffee, they cross off one of the 30 boxes. When all boxes are crossed it’s time to buy a new sheet."
+  },
+  {
+    "objectID": "WelcomeGuide.html#magnan",
+    "href": "WelcomeGuide.html#magnan",
+    "title": "Welcome Guide",
+    "section": "   Magnan",
+    "text": "Magnan"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "LMS's wiki",
     "section": "",
-    "text": "This wiki serves as a central hub for all our documentation, resources, shared literature review and more.\nHere, you will find:\n\nSeminars: The list of past and future seminars in the lab\nJournal Club: The schedule and prospects of past and future journal club sessions\nScientific literature: A list of the scientific papers shared by members of the lab\nUsefull resources: A list of useful resources for our scientific activities (writing, computing, presenting, etc)"
+    "text": "This wiki serves as a central hub for all our documentation, resources, shared literature review and more.\nHere, you will find:\n\nSeminars: The list of past and future seminars in the lab\nJournal Club: The schedule and prospects of past and future journal club sessions\nScientific literature: A list of the scientific papers shared by members of the lab\nUsefull resources: A list of useful resources for our scientific activities (writing, computing, presenting, etc)\nWelcome guide: A list of useful pieces of information for every newcomer to the lab"
   },
   {
     "objectID": "index.html#welcome",
     "href": "index.html#welcome",
     "title": "LMS's wiki",
     "section": "",
-    "text": "This wiki serves as a central hub for all our documentation, resources, shared literature review and more.\nHere, you will find:\n\nSeminars: The list of past and future seminars in the lab\nJournal Club: The schedule and prospects of past and future journal club sessions\nScientific literature: A list of the scientific papers shared by members of the lab\nUsefull resources: A list of useful resources for our scientific activities (writing, computing, presenting, etc)"
+    "text": "This wiki serves as a central hub for all our documentation, resources, shared literature review and more.\nHere, you will find:\n\nSeminars: The list of past and future seminars in the lab\nJournal Club: The schedule and prospects of past and future journal club sessions\nScientific literature: A list of the scientific papers shared by members of the lab\nUsefull resources: A list of useful resources for our scientific activities (writing, computing, presenting, etc)\nWelcome guide: A list of useful pieces of information for every newcomer to the lab"
   },
   {
     "objectID": "index.html#how-to-contribute",
