@@ -154,6 +154,7 @@ div.csl-indent {
   <ul>
   <li><a href="#reduced-order-modelling" id="toc-reduced-order-modelling" class="nav-link active" data-scroll-target="#reduced-order-modelling">Reduced-order modelling</a></li>
   <li><a href="#modelling" id="toc-modelling" class="nav-link" data-scroll-target="#modelling">Modelling</a></li>
+  <li><a href="#differential-geometry-for-engineers" id="toc-differential-geometry-for-engineers" class="nav-link" data-scroll-target="#differential-geometry-for-engineers">Differential Geometry for Engineers</a></li>
   </ul>
 </nav>
     </div>
@@ -194,7 +195,15 @@ div.csl-indent {
 </thead>
 <tbody>
 <tr class="odd">
-<td>Blessing of dimensionality - I</td>
+<td><em>A posteriori</em> ROM (POD,RB)</td>
+<td><span class="citation" data-cites="chatterjeeIntroductionProperOrthogonal2000 madayPrioriConvergenceTheory2002 madayReducedBasisElementMethod2002">(<a href="#ref-chatterjeeIntroductionProperOrthogonal2000" role="doc-biblioref">Chatterjee 2000</a>; <a href="#ref-madayPrioriConvergenceTheory2002" role="doc-biblioref">Maday, Patera, and Turinici 2002</a>; <a href="#ref-madayReducedBasisElementMethod2002" role="doc-biblioref">Maday and Rønquist 2002</a>)</span></td>
+</tr>
+<tr class="even">
+<td><em>A priori</em> ROM (PGD)</td>
+<td><span class="citation" data-cites="ladevezeNouvelleStrategieCalcul1999 ryckelynckPrioriModelReduction2006 chinestaShortReviewModel2011">(<a href="#ref-ladevezeNouvelleStrategieCalcul1999" role="doc-biblioref">Ladevèze and Dureisseix 1999</a>; <a href="#ref-ryckelynckPrioriModelReduction2006" role="doc-biblioref">Ryckelynck et al. 2006</a>; <a href="#ref-chinestaShortReviewModel2011" role="doc-biblioref">Chinesta, Ladeveze, and Cueto 2011</a>)</span></td>
+</tr>
+<tr class="odd">
+<td>Blessing of dimensionality</td>
 <td><span class="citation" data-cites="gorbanBlessingDimensionalityMathematical2018 gorbanBlessingDimensionalitySeparation2016">(<a href="#ref-gorbanBlessingDimensionalityMathematical2018" role="doc-biblioref">A. N. Gorban and Tyukin 2018</a>; <a href="#ref-gorbanBlessingDimensionalitySeparation2016" role="doc-biblioref">Alexander N. Gorban, Tyukin, and Romanenko 2016</a>)</span></td>
 </tr>
 <tr class="even">
@@ -220,11 +229,36 @@ div.csl-indent {
 <tbody>
 <tr class="odd">
 <td>Damage mechanics</td>
-<td><span class="citation" data-cites="lemaitre_engineering_2005">(<a href="#ref-lemaitre_engineering_2005" role="doc-biblioref">Lemaître and Desmorat 2005</a>)</span></td>
+<td><span class="citation" data-cites="peerlingsGradientEnhancedDamage1996 lemaitre_engineering_2005">(<a href="#ref-peerlingsGradientEnhancedDamage1996" role="doc-biblioref">Peerlings et al. 1996</a>; <a href="#ref-lemaitre_engineering_2005" role="doc-biblioref">Lemaître and Desmorat 2005</a>)</span></td>
 </tr>
 <tr class="even">
 <td>Lung poromechanics</td>
 <td><span class="citation" data-cites="patteQuasistaticPoromechanicalModel2022">(<a href="#ref-patteQuasistaticPoromechanicalModel2022" role="doc-biblioref">Patte, Genet, and Chapelle 2022</a>)</span></td>
+</tr>
+</tbody>
+</table>
+</section>
+<section id="differential-geometry-for-engineers" class="level3">
+<h3 class="anchored" data-anchor-id="differential-geometry-for-engineers">Differential Geometry for Engineers</h3>
+<table class="caption-top table">
+<colgroup>
+<col style="width: 36%">
+<col style="width: 63%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Topic</th>
+<th>Ref</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Course (french)</td>
+<td><span class="citation" data-cites="kolevElementsGeometriePour2019">(<a href="#ref-kolevElementsGeometriePour2019" role="doc-biblioref">Kolev and Desmorat 2019</a>)</span></td>
+</tr>
+<tr class="even">
+<td>Book</td>
+<td><span class="citation" data-cites="marsdenMathematicalFoundationsElasticity1994 sahraeeTensorCalculusDifferential2023">(<a href="#ref-marsdenMathematicalFoundationsElasticity1994" role="doc-biblioref">Marsden and Hughes 1994</a>; <a href="#ref-sahraeeTensorCalculusDifferential2023" role="doc-biblioref">Sahraee and Wriggers 2023</a>)</span></td>
 </tr>
 </tbody>
 </table>
@@ -234,20 +268,50 @@ div.csl-indent {
 </section>
 
 <div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" role="doc-bibliography" id="quarto-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0" role="list">
+<div id="ref-chatterjeeIntroductionProperOrthogonal2000" class="csl-entry" role="listitem">
+Chatterjee, Anindya. 2000. <span>“An Introduction to the Proper Orthogonal Decomposition.”</span> <em>Current Science</em> 78 (7): 808–17. <a href="https://www.jstor.org/stable/24103957">https://www.jstor.org/stable/24103957</a>.
+</div>
+<div id="ref-chinestaShortReviewModel2011" class="csl-entry" role="listitem">
+Chinesta, Francisco, Pierre Ladeveze, and Elías Cueto. 2011. <span>“A <span>Short Review</span> on <span>Model Order Reduction Based</span> on <span>Proper Generalized Decomposition</span>.”</span> <em>Archives of Computational Methods in Engineering</em> 18 (4): 395–404. <a href="https://doi.org/10.1007/s11831-011-9064-7">https://doi.org/10.1007/s11831-011-9064-7</a>.
+</div>
 <div id="ref-gorbanBlessingDimensionalityMathematical2018" class="csl-entry" role="listitem">
 Gorban, A. N., and I. Y. Tyukin. 2018. <span>“Blessing of Dimensionality: Mathematical Foundations of the Statistical Physics of Data.”</span> <em>Philosophical Transactions of the Royal Society A: Mathematical, Physical and Engineering Sciences</em> 376 (2118): 20170237. <a href="https://doi.org/10.1098/rsta.2017.0237">https://doi.org/10.1098/rsta.2017.0237</a>.
 </div>
 <div id="ref-gorbanBlessingDimensionalitySeparation2016" class="csl-entry" role="listitem">
 Gorban, Alexander N., Ivan Yu. Tyukin, and Ilya Romanenko. 2016. <span>“The <span>Blessing</span> of <span>Dimensionality</span>: <span>Separation Theorems</span> in the <span>Thermodynamic Limit</span>*.”</span> <em>IFAC-PapersOnLine</em>, 2th <span>IFAC Workshop</span> on <span>Thermodynamic Foundations</span> for a <span>Mathematical Systems Theory TFMST</span> 2016, 49 (24): 64–69. <a href="https://doi.org/10.1016/j.ifacol.2016.10.755">https://doi.org/10.1016/j.ifacol.2016.10.755</a>.
 </div>
+<div id="ref-kolevElementsGeometriePour2019" class="csl-entry" role="listitem">
+Kolev, Boris, and R. Desmorat. 2019. <span>“<span>É</span>l<span>é</span>ments de g<span>é</span>om<span>é</span>trie Pour La m<span>é</span>canique Des Milieux Continus.”</span>
+</div>
 <div id="ref-kramerLearningNonlinearReduced2024" class="csl-entry" role="listitem">
 Kramer, Boris, Benjamin Peherstorfer, and Karen E. Willcox. 2024. <span>“Learning <span>Nonlinear Reduced Models</span> from <span>Data</span> with <span>Operator Inference</span>.”</span> <em>Annual Review of Fluid Mechanics</em> 56 (1): 521–48. <a href="https://doi.org/10.1146/annurev-fluid-121021-025220">https://doi.org/10.1146/annurev-fluid-121021-025220</a>.
+</div>
+<div id="ref-ladevezeNouvelleStrategieCalcul1999" class="csl-entry" role="listitem">
+Ladevèze, Pierre, and David Dureisseix. 1999. <span>“<span>Une nouvelle strat<span>é</span>gie de calcul micro/macro en m<span>é</span>canique des structures</span>.”</span> <em>Comptes Rendus de l’Acad<span>é</span>mie des Sciences - Series IIB - Mechanics-Physics-Astronomy</em> 327 (12): 1237–44. <a href="https://doi.org/10.1016/S1287-4620(00)88647-0">https://doi.org/10.1016/S1287-4620(00)88647-0</a>.
 </div>
 <div id="ref-lemaitre_engineering_2005" class="csl-entry" role="listitem">
 Lemaître, J., and R. Desmorat. 2005. <em>Engineering Damage Mechanics: Ductile, Creep, Fatigue and Brittle Failures</em>. Berlin ; New York: Springer.
 </div>
+<div id="ref-madayPrioriConvergenceTheory2002" class="csl-entry" role="listitem">
+Maday, Yvon, Anthony T. Patera, and Gabriel Turinici. 2002. <span>“A <span>Priori Convergence Theory</span> for <span>Reduced-Basis Approximations</span> of <span>Single-Parameter Elliptic Partial Differential Equations</span>.”</span> <em>Journal of Scientific Computing</em> 17 (1): 437–46. <a href="https://doi.org/10.1023/A:1015145924517">https://doi.org/10.1023/A:1015145924517</a>.
+</div>
+<div id="ref-madayReducedBasisElementMethod2002" class="csl-entry" role="listitem">
+Maday, Yvon, and Einar M. Rønquist. 2002. <span>“A <span>Reduced-Basis Element Method</span>.”</span> <em>Journal of Scientific Computing</em> 17 (1): 447–59. <a href="https://doi.org/10.1023/A:1015197908587">https://doi.org/10.1023/A:1015197908587</a>.
+</div>
+<div id="ref-marsdenMathematicalFoundationsElasticity1994" class="csl-entry" role="listitem">
+Marsden, Jerrold E., and Thomas J. R. Hughes. 1994. <em>Mathematical <span>Foundations</span> of <span>Elasticity</span></em>. Courier Corporation.
+</div>
 <div id="ref-patteQuasistaticPoromechanicalModel2022" class="csl-entry" role="listitem">
 Patte, Cécile, Martin Genet, and Dominique Chapelle. 2022. <span>“A Quasi-Static Poromechanical Model of the Lungs.”</span> <em>Biomechanics and Modeling in Mechanobiology</em> 21 (2): 527–51. <a href="https://doi.org/10.1007/s10237-021-01547-0">https://doi.org/10.1007/s10237-021-01547-0</a>.
+</div>
+<div id="ref-peerlingsGradientEnhancedDamage1996" class="csl-entry" role="listitem">
+Peerlings, R. H. J., R. De Borst, W. a. M. Brekelmans, and J. H. P. De Vree. 1996. <span>“Gradient <span>Enhanced Damage</span> for <span>Quasi-Brittle Materials</span>.”</span> <em>International Journal for Numerical Methods in Engineering</em> 39 (19): 3391–3403. <a href="https://doi.org/10.1002/(SICI)1097-0207(19961015)39:19<3391::AID-NME7>3.0.CO;2-D">https://doi.org/10.1002/(SICI)1097-0207(19961015)39:19&lt;3391::AID-NME7&gt;3.0.CO;2-D</a>.
+</div>
+<div id="ref-ryckelynckPrioriModelReduction2006" class="csl-entry" role="listitem">
+Ryckelynck, D., F. Chinesta, E. Cueto, and A. Ammar. 2006. <span>“On the a Priori Model Reduction: <span>Overview</span> and Recent Developments.”</span> <em>Archives of Computational Methods in Engineering</em> 13 (1): 91–128. <a href="https://doi.org/10.1007/BF02905932">https://doi.org/10.1007/BF02905932</a>.
+</div>
+<div id="ref-sahraeeTensorCalculusDifferential2023" class="csl-entry" role="listitem">
+Sahraee, Shahab, and Peter Wriggers. 2023. <em>Tensor <span>Calculus</span> and <span>Differential Geometry</span> for <span>Engineers</span>: <span>With Solved Exercises</span></em>. Cham: Springer Nature Switzerland. <a href="https://doi.org/10.1007/978-3-031-33953-0">https://doi.org/10.1007/978-3-031-33953-0</a>.
 </div>
 </div></section></div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
