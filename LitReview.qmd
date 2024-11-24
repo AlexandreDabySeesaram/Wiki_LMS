@@ -10,14 +10,24 @@ format:
 
 |       Topic            | Ref                                      |
 |------------------------|------------------------------------------|
-|       Blessing of dimensionality - I              | [@gorbanBlessingDimensionalityMathematical2018; @gorbanBlessingDimensionalitySeparation2016]  |
+|       *A posteriori* ROM (POD,RB)              | [@chatterjeeIntroductionProperOrthogonal2000;@madayPrioriConvergenceTheory2002;@madayReducedBasisElementMethod2002] |
+|       *A priori* ROM (PGD)              | [@ladevezeNouvelleStrategieCalcul1999;@ryckelynckPrioriModelReduction2006;@chinestaShortReviewModel2011] |
+|       Blessing of dimensionality              | [@gorbanBlessingDimensionalityMathematical2018; @gorbanBlessingDimensionalitySeparation2016]  |
 |       Non-linear operator inference              | [@kramerLearningNonlinearReduced2024] |
+
 
 ### Modelling
 
 |       Topic            | Ref                                      |
 |------------------------|------------------------------------------|
-|       Damage mechanics          | [@lemaitre_engineering_2005]             |
+|       Damage mechanics          | [@peerlingsGradientEnhancedDamage1996;@lemaitre_engineering_2005]             |
 |       Lung poromechanics           | [@patteQuasistaticPoromechanicalModel2022]             |
 
+
+### Differential Geometry for Engineers 
+
+|       Topic            | Ref                                      |
+|------------------------|------------------------------------------|
+|       Course (french)          | [@kolevElementsGeometriePour2019]             |
+|       Book           | [@marsdenMathematicalFoundationsElasticity1994;@sahraeeTensorCalculusDifferential2023]             |
 
