@@ -26,3 +26,7 @@ There a **jura coffee machine** in the cafeteria. To use it you can ask **Alexis
 We use those sheets to manage our shared coffee supply. Each sheet represents a *ration* of 30 cups of coffee. As people take coffee, they cross off one of the 30 boxes. When all boxes are crossed it's time to buy a new sheet.
 
 ## {{< iconify fa6-solid:utensils >}} &nbsp; Magnan
+
+You can top up your Magnan account balance at the main cash desk, with the terminals at the entrance of Magnan but also online.
+
+For the online option, you need to go on the [pop and pay website](https://www.popandpay.com). The code site is "magnan". At you first connexion, you must use your default login details to log in; once connected you will be asked to define a new credentials. Your default login (which is also the default password) is written on the left of your name on the Magnan receipts.
