@@ -18,19 +18,6 @@ format:
     * ```reveal --size=1600x1000 presentation.html presentation.pdf``` 
 
 
-| **Resource**                     | **Description**                                                                 | 
-|:--------------------------------:|:--------------------------------------------------------------------------------|
-| PhD template                     | A Ph.D. thesis template openly available on <a href="https://github.com/floiseau/PhD_Thesis_Template">Github. |
-| Beamer template                  | A beamer template for LMS presentations is available on [Github](https://github.com/AlexandreDabySeesaram/Slideshow_Template) |
-| Latex package |  The package [microtype](https://ctan.org/pkg/microtype) helps improving the rendering of long text easily |
-| Editing tool | [Quarto](https://quarto.org/) is an open-source librairy that enables to create dynamic scientific documents, presentations, and websites using Markdown, LaTeX, and a variety of programming languages (including python, R, etc.). |
-| | The html presentations can then be translated into pdfs using [decktape](https://github.com/astefanutti/decktape). 
-| |  &nbsp; &nbsp;&nbsp; install node ```brew install node```
-| |  &nbsp; &nbsp;&nbsp; install decktape ``` npm install -g decktape ```
-| |  &nbsp; &nbsp;&nbsp; ```reveal --size=1600x1000 presentation.html presentation.pdf``` 
-
-
-
 
 ## {{< iconify fa-solid:envelope >}} &nbsp; Correspondance
 
