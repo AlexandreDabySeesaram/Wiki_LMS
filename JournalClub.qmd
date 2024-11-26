@@ -1,5 +1,6 @@
 ---
 title: "{{< iconify fa6-solid:person-chalkboard >}} &nbsp; Journal club"
+bibliography: Resources/FENNI-PGD.bib
 format:
   html:
     page-layout: full
@@ -7,6 +8,8 @@ format:
 
 :::: {style='margin-top: 3em;'}
 ::::
+
+{{< iconify fa-solid:calendar-days >}} &nbsp; Schedule
 
 | Date           | Speaker                              | Title                                     | Seminar Type |
 |----------------|--------------------------------------|-------------------------------------------|--------------|
@@ -16,3 +19,32 @@ format:
 
 - **Time:** 12:30 on Tuesdays
 - **Venue:** L18 meeting room
+
+
+## {{< iconify fa-solid:book >}} &nbsp; Scientific papers
+
+### Reduced-order modelling
+
+|       Topic            | Ref                                      |
+|------------------------|------------------------------------------|
+|       *A posteriori* ROM (POD,RB)              | [@chatterjeeIntroductionProperOrthogonal2000;@madayPrioriConvergenceTheory2002;@madayReducedBasisElementMethod2002] |
+|       *A priori* ROM (PGD)              | [@ladevezeNouvelleStrategieCalcul1999;@ryckelynckPrioriModelReduction2006;@chinestaShortReviewModel2011] |
+|       Blessing of dimensionality              | [@gorbanBlessingDimensionalityMathematical2018; @gorbanBlessingDimensionalitySeparation2016]  |
+|       Non-linear operator inference              | [@kramerLearningNonlinearReduced2024] |
+
+
+### Modelling
+
+|       Topic            | Ref                                      |
+|------------------------|------------------------------------------|
+|       Damage mechanics          | [@peerlingsGradientEnhancedDamage1996;@lemaitre_engineering_2005]             |
+|       Lung poromechanics           | [@patteQuasistaticPoromechanicalModel2022]             |
+
+
+### Differential Geometry for Engineers 
+
+|       Topic            | Ref                                      |
+|------------------------|------------------------------------------|
+|       Course (french)          | [@kolevElementsGeometriePour2019]             |
+|       Book           | [@marsdenMathematicalFoundationsElasticity1994;@sahraeeTensorCalculusDifferential2023]             |
+

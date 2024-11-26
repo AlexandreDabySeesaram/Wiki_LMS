@@ -17,8 +17,8 @@ website:
         text: Seminars
       - href: JournalClub.qmd
         text: Journal Club
-      - href: LitReview.qmd
-        text: Scientific literature
+      # - href: LitReview.qmd
+      #   text: Scientific literature
       - href: AddResources.qmd
         text: Resources
       - href: WelcomeGuide.qmd
