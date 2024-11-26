@@ -9,7 +9,7 @@ format:
 :::: {style='margin-top: 3em;'}
 ::::
 
-## {{< iconify fa-solid:calendar-days >}} &nbsp; Schedule
+## {{< iconify fa6-solid:calendar-days >}} &nbsp; Schedule
 
 | Date           | Speaker                              | Title                                     | Seminar Type |
 |----------------|--------------------------------------|-------------------------------------------|--------------|
