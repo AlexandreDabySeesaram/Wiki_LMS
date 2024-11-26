@@ -59,7 +59,6 @@ If you are interested in attending the seminar series,
     * to subscribe to the mailing list [https://groupes.renater.fr/sympa/info/computational-mechanics-at-ipp](https://groupes.renater.fr/sympa/info/computational-mechanics-at-ipp) 
     * and to the shared calendar [https://webmail.polytechnique.fr/home/martin.genet@zimbra.polytechnique.fr/%5BIPP%5D%20Computational%20Mechanics%20Internal%20Seminar.ics](https://webmail.polytechnique.fr/home/martin.genet@zimbra.polytechnique.fr/%5BIPP%5D%20Computational%20Mechanics%20Internal%20Seminar.ics). 
 
-<iframe src="https://calendar.google.com/calendar/embed?src=https://webmail.polytechnique.fr/home/martin.genet@zimbra.polytechnique.fr/%5BIPP%5D%20Computational%20Mechanics%20Internal%20Seminar.ics" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
 | Date       | Speaker                |
 |------------|-------------------------|
