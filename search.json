@@ -95,7 +95,14 @@
     "href": "JournalClub.html",
     "title": "   Journal club",
     "section": "",
-    "text": "Date\nSpeaker\nTitle\nSeminar Type\n\n\n\n\n12/11/2024\nAlexandre\nFENNI-PGD: non-linear surrogate modelling\nKeynote\n\n\n03/12/2024\nXavier\n\nReview\n\n\n\n\nTime: 12:30 on Tuesdays\nVenue: L18 meeting room"
+    "text": "Schedule"
+  },
+  {
+    "objectID": "JournalClub.html#scientific-papers",
+    "href": "JournalClub.html#scientific-papers",
+    "title": "   Journal club",
+    "section": "   Scientific papers",
+    "text": "Scientific papers\n\nReduced-order modelling\n\n\n\n\n\n\n\nTopic\nRef\n\n\n\n\nA posteriori ROM (POD,RB)\n(Chatterjee 2000; Maday, Patera, and Turinici 2002; Maday and Rønquist 2002)\n\n\nA priori ROM (PGD)\n(Ladevèze and Dureisseix 1999; Ryckelynck et al. 2006; Chinesta, Ladeveze, and Cueto 2011)\n\n\nBlessing of dimensionality\n(A. N. Gorban and Tyukin 2018; Alexander N. Gorban, Tyukin, and Romanenko 2016)\n\n\nNon-linear operator inference\n(Kramer, Peherstorfer, and Willcox 2024)\n\n\n\n\n\nModelling\n\n\n\n\n\n\n\nTopic\nRef\n\n\n\n\nDamage mechanics\n(Peerlings et al. 1996; Lemaître and Desmorat 2005)\n\n\nLung poromechanics\n(Patte, Genet, and Chapelle 2022)\n\n\n\n\n\nDifferential Geometry for Engineers\n\n\n\n\n\n\n\nTopic\nRef\n\n\n\n\nCourse (french)\n(Kolev and Desmorat 2019)\n\n\nBook\n(Marsden and Hughes 1994; Sahraee and Wriggers 2023)"
   },
   {
     "objectID": "Seminars.html#lms-seminars",
