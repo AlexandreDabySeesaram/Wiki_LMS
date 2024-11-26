@@ -9,7 +9,7 @@ format:
 :::: {style='margin-top: 3em;'}
 ::::
 
-{{< iconify fa-solid:calendar-days >}} &nbsp; Schedule
+## {{< iconify fa-solid:calendar-days >}} &nbsp; Schedule
 
 | Date           | Speaker                              | Title                                     | Seminar Type |
 |----------------|--------------------------------------|-------------------------------------------|--------------|
@@ -20,6 +20,8 @@ format:
 - **Time:** 12:30 on Tuesdays
 - **Venue:** L18 meeting room
 
+:::: {style='margin-top: 3em;'}
+::::
 
 ## {{< iconify fa-solid:book >}} &nbsp; Scientific papers
 
