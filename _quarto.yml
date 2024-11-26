@@ -6,8 +6,8 @@ project:
   type: website
   output-dir: public
 website:
-  title: "LMS's wiki"
-  description: "LMS's wiki"
+  title: "Wiki"
+  description: "Wiki"
   # site-url: https://alexandredabyseesaram.github.io/
   navbar:
     right:
