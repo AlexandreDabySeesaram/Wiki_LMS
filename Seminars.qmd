@@ -10,6 +10,10 @@ format:
 
 ## {{< iconify fa6-solid:compass-drafting >}} &nbsp; LMS Seminars
 
+<iframe src="https://calendar.google.com/calendar/embed?height=600&amp;wkst=1&amp;bgcolor=%23ffffff&amp;ctz=Europe%2FParis&amp;src=lms.seminaires%40gmail.com&amp;ctz=Europe%2FParis;color=%233F51B5&amp;mode=AGENDA&amp;hl=en&amp;showTitle=0&amp;showCalendars=0"
+        style="border:0" scrolling="no" height="400" frameborder="0" width="100%"></iframe>
+        
+
 | Date           | Speaker                              | Institution                               | Seminar Type |
 |----------------|--------------------------------------|-------------------------------------------|--------------|
 | September 19   | Adrien Baldit                        | Université de Lorraine                    | LMS   |
