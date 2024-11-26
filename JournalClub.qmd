@@ -10,8 +10,8 @@ format:
 
 | Date           | Speaker                              | Title                                     | Seminar Type |
 |----------------|--------------------------------------|-------------------------------------------|--------------|
-| November 12    | [Alexandre](https://alexandredabyseesaram.github.io/)                            | FENNI-PGD: non-linear surrogate modelling | Keynote      |
-| November 19    | XXXX                                 |                                           | Review       |
+| 12/11/2024    | [Alexandre](https://alexandredabyseesaram.github.io/)                            | FENNI-PGD: non-linear surrogate modelling | Keynote      |
+| 03/12/2024    | Xavier                                 |                                           | Review       |
 
 
 - **Time:** 12:30 on Tuesdays
