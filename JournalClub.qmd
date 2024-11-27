@@ -1,5 +1,5 @@
 ---
-title: "{{< iconify fa6-solid:person-chalkboard >}} &nbsp; Journal club"
+title: "{{< iconify fa6-solid:newspaper >}} &nbsp; Journal club"
 bibliography: Resources/FENNI-PGD.bib
 format:
   html:
