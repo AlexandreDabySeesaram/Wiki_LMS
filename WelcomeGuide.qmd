@@ -34,7 +34,7 @@ You can top up your Magnan account balance at the main cash desk, with the termi
 
 For the online option, you need to go on the [pop and pay website](https://www.popandpay.com). The code site is "magnan". At you first connexion, you must use your default login details to log in; once connected you will be asked to define a new credentials. Your default login (which is also the default password) is written on the left of your name on the Magnan receipts.
 
-## {{< iconify fa6-solid:terminal >}} &nbsp; Essential Bash Commands for Beginners
+## {{< iconify fa6-solid:terminal >}} &nbsp; Essential Bash commands for beginners
 
 ### **Navigation**
 - `pwd`: Print the current working directory.
