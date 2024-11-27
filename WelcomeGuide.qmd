@@ -11,7 +11,7 @@ format:
 ## {{< iconify fa6-solid:server >}} &nbsp; Servers
 
 * [FileSender](https://filesender.renater.fr/) lets you share files of up to 100GB, with the assurance that your data is secure. Your files remain available for download for up to 30 days. 
-
+* [Slurm](https://slurm.schedmd.com/documentation.html) is the open source, cluster management and job scheduling system installed on most Linux clusters (École Polytechnique, Jean-zay, etc)
 
 ## {{< iconify fa6-solid:pen-nib >}} &nbsp; CNRS latex
 
