@@ -60,6 +60,7 @@ If you are interested in attending the seminar series,
 
     * to subscribe to the shared calendar [https://webmail.polytechnique.fr/home/martin.genet@zimbra.polytechnique.fr/%5BIPP%5D%20Computational%20Mechanics%20Internal%20Seminar.ics](https://webmail.polytechnique.fr/home/martin.genet@zimbra.polytechnique.fr/%5BIPP%5D%20Computational%20Mechanics%20Internal%20Seminar.ics). 
 
+<iframe height="600" src="https://framagenda.org/apps/calendar/embed/wSpe8zeZgDFTEJRk" width="100%"></iframe>
 
 | Date       | Speaker                |
 |------------|-------------------------|
