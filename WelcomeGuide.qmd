@@ -10,6 +10,9 @@ format:
 
 ## {{< iconify fa6-solid:server >}} &nbsp; Servers
 
+* [FileSender](https://filesender.renater.fr/) lets you share files of up to 100GB, with the assurance that your data is secure. Your files remain available for download for up to 30 days. 
+
+
 ## {{< iconify fa6-solid:pen-nib >}} &nbsp; CNRS latex
 
 The CNRS hosts an overleaf-based collaborative latex plateform called [plmlatex](https://plmlatex.math.cnrs.fr/login), that you can access with you Polytechnique's credentials.
