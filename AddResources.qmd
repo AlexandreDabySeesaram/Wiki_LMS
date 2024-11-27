@@ -102,7 +102,7 @@ https://pypi.org/project/NeuROM-Py/)
 :::: {style='margin-top: 2.5em;'}
 ::::
 
-The reduced-order modelling code used to create surrogate models based on an hybridisation of standard reduced-order modelling methods such as the PGD and Deep learning methods is [public](https://github.com/AlexandreDabySeesaram/NeuROM) and [notebooks with tutorials are also available](https://fenni-pgd-aldabyse-d62c0089e00d70057d8fae6bbaedf6cf1d181c44edf5.gitlabpages.inria.fr/).
+A reduced-order modelling code used to create surrogate models based on an hybridisation of standard reduced-order modelling methods such as the PGD and Deep learning methods is [public](https://github.com/AlexandreDabySeesaram/NeuROM) and [notebooks with tutorials are also available](https://alexandredabyseesaram.github.io/FENNI-II-PGD-paper-demo/).
 
 
 :::
