@@ -33,3 +33,51 @@ We use those sheets to manage our shared coffee supply. Each sheet represents a 
 You can top up your Magnan account balance at the main cash desk, with the terminals at the entrance of Magnan but also online.
 
 For the online option, you need to go on the [pop and pay website](https://www.popandpay.com). The code site is "magnan". At you first connexion, you must use your default login details to log in; once connected you will be asked to define a new credentials. Your default login (which is also the default password) is written on the left of your name on the Magnan receipts.
+
+## {{< iconify fa6-solid:terminal >}} &nbsp; Essential Bash Commands for Beginners
+
+### **Navigation**
+- `pwd`: Print the current working directory.
+- `ls`: List files and directories in the current directory.
+  - `ls -a`: Show hidden files.
+  - `ls -l`: Detailed list view.
+- `cd [path]`: Change directory.
+  - `cd ..`: Go up one directory level.
+  - `cd ~`: Go to the home directory.
+
+### **File and Directory Operations**
+- `touch [file]`: Create a new empty file.
+- `mkdir [directory]`: Create a new directory.
+- `cp [source] [destination]`: Copy files or directories.
+  - `cp -r [directory] [destination]`: Copy directories recursively.
+- `rsync [options] [source] [destination]`: Synchronize files/directories over ssh.
+  - `rsync -av [source] [destination]`: Archive mode (preserves permissions, timestamps) with verbose output.
+  - `rsync -az [source] [destination]`: Compress data during transfer.
+  - `rsync --progress [source] [destination]`: Show progress during synchronization.
+- `mv [source] [destination]`: Move or rename files/directories.
+- `rm [file]`: Delete a file.
+  - `rm -r [directory]`: Delete a directory and its contents.
+
+### **Viewing File Contents**
+- `cat [file]`: Display the entire content of a file.
+- `vim [file]`: Open the file in vim text editor
+### **Permissions**
+- `chmod [permissions] [file]`: Change file permissions.
+  - Example: `chmod 755 script.sh`.
+- `chown [user]:[group] [file]`: Change file owner.
+
+### **Searching and Finding**
+- `find [path] -name [pattern]`: Search for files by name.
+- `grep [pattern] [file]`: Search for a pattern in a file.
+  - `grep -r [pattern] [directory]`: Search recursively.
+
+### **Networking**
+- `ping [hostname]`: Check connectivity to a host.
+- `curl [url]`: Fetch data from a URL.
+
+### **Miscellaneous**
+- `echo [text]`: Print text to the terminal.
+- `history`: Show command history.
+- `clear`: Clear the terminal screen.
+
+
