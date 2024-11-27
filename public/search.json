@@ -4,7 +4,7 @@
     "href": "WelcomeGuide.html#servers",
     "title": "Welcome Guide",
     "section": "   Servers",
-    "text": "Servers"
+    "text": "Servers\n\nFileSender lets you share files of up to 100GB, with the assurance that your data is secure. Your files remain available for download for up to 30 days.\nSlurm is the open source, cluster management and job scheduling system installed on most Linux clusters (École Polytechnique, Jean-zay, etc)"
   },
   {
     "objectID": "WelcomeGuide.html#cnrs-latex",
@@ -25,42 +25,56 @@
     "href": "WelcomeGuide.html#coffee",
     "title": "Welcome Guide",
     "section": "   Coffee",
-    "text": "Coffee\nThere a jura coffee machine in the cafeteria. To use it you can ask Alexis (office xxx) to sell you a Coffee allocation sheet.\nWe use those sheets to manage our shared coffee supply. Each sheet represents a ration of 30 cups of coffee. As people take coffee, they cross off one of the 30 boxes. When all boxes are crossed it’s time to buy a new sheet."
+    "text": "Coffee\nThere a jura coffee machine in the cafeteria. To use it you can ask Alexis (office xxx) to sell you a Coffee allocation sheet.\nWe use those sheets to manage our shared coffee supply. Each sheet represents a ration of 50 cups of coffee. As people take coffee, they cross off one of the 50 boxes. When all boxes are crossed it’s time to buy a new sheet."
   },
   {
     "objectID": "WelcomeGuide.html#magnan",
     "href": "WelcomeGuide.html#magnan",
     "title": "Welcome Guide",
     "section": "   Magnan",
-    "text": "Magnan"
+    "text": "Magnan\nYou can top up your Magnan account balance at the main cash desk, with the terminals at the entrance of Magnan but also online.\nFor the online option, you need to go on the pop and pay website. The code site is “magnan”. At you first connexion, you must use your default login details to log in; once connected you will be asked to define a new credentials. Your default login (which is also the default password) is written on the left of your name on the Magnan receipts."
+  },
+  {
+    "objectID": "WelcomeGuide.html#essential-bash-commands-for-beginners",
+    "href": "WelcomeGuide.html#essential-bash-commands-for-beginners",
+    "title": "Welcome Guide",
+    "section": "   Essential Bash commands for beginners",
+    "text": "Essential Bash commands for beginners\n\nNavigation\n\npwd: Print the current working directory.\nls: List files and directories in the current directory.\n\nls -a: Show hidden files.\nls -l: Detailed list view.\n\ncd [path]: Change directory.\n\ncd ..: Go up one directory level.\ncd ~: Go to the home directory.\n\n\n\n\nFile and Directory Operations\n\ntouch [file]: Create a new empty file.\nmkdir [directory]: Create a new directory.\ncp [source] [destination]: Copy files or directories.\n\ncp -r [directory] [destination]: Copy directories recursively.\n\nrsync [options] [source] [destination]: Synchronize files/directories over ssh.\n\nrsync -av [source] [destination]: Archive mode (preserves permissions, timestamps) with verbose output.\nrsync -az [source] [destination]: Compress data during transfer.\nrsync --progress [source] [destination]: Show progress during synchronization.\n\nmv [source] [destination]: Move or rename files/directories.\nrm [file]: Delete a file.\n\nrm -r [directory]: Delete a directory and its contents.\n\n\n\n\nViewing File Contents\n\ncat [file]: Display the entire content of a file.\nvim [file]: Open the file in vim text editor ### Permissions\nchmod [permissions] [file]: Change file permissions.\n\nExample: chmod 755 script.sh.\n\nchown [user]:[group] [file]: Change file owner.\n\n\n\nSearching and Finding\n\nfind [path] -name [pattern]: Search for files by name.\ngrep [pattern] [file]: Search for a pattern in a file.\n\ngrep -r [pattern] [directory]: Search recursively.\n\n\n\n\nNetworking\n\nping [hostname]: Check connectivity to a host.\ncurl [url]: Fetch data from a URL.\n\n\n\nMiscellaneous\n\necho [text]: Print text to the terminal.\nhistory: Show command history.\nclear: Clear the terminal screen."
   },
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "LMS's wiki",
+    "title": "Wiki",
     "section": "",
-    "text": "This wiki serves as a central hub for all our documentation, resources, shared literature review and more.\nHere, you will find:\n\nSeminars: The list of past and future seminars in the lab\nJournal Club: The schedule and prospects of past and future journal club sessions\nScientific literature: A list of the scientific papers shared by members of the lab\nUsefull resources: A list of useful resources for our scientific activities (writing, computing, presenting, etc)\nWelcome guide: A list of useful pieces of information for every newcomer to the lab"
+    "text": "This wiki serves as a central hub for all our documentation, resources, shared literature review and more.\nHere, you will find:\n\nSeminars: The list of past and future seminars in the lab\nJournal Club: The schedule and prospects of past and future journal club sessions as well as a list of the scientific papers shared by members of the lab \nUseful resources: A list of useful resources for our scientific activities (writing, computing, presenting, etc)\nWelcome guide: A list of useful pieces of information for every newcomer to the lab"
   },
   {
     "objectID": "index.html#welcome",
     "href": "index.html#welcome",
-    "title": "LMS's wiki",
+    "title": "Wiki",
     "section": "",
-    "text": "This wiki serves as a central hub for all our documentation, resources, shared literature review and more.\nHere, you will find:\n\nSeminars: The list of past and future seminars in the lab\nJournal Club: The schedule and prospects of past and future journal club sessions\nScientific literature: A list of the scientific papers shared by members of the lab\nUsefull resources: A list of useful resources for our scientific activities (writing, computing, presenting, etc)\nWelcome guide: A list of useful pieces of information for every newcomer to the lab"
+    "text": "This wiki serves as a central hub for all our documentation, resources, shared literature review and more.\nHere, you will find:\n\nSeminars: The list of past and future seminars in the lab\nJournal Club: The schedule and prospects of past and future journal club sessions as well as a list of the scientific papers shared by members of the lab \nUseful resources: A list of useful resources for our scientific activities (writing, computing, presenting, etc)\nWelcome guide: A list of useful pieces of information for every newcomer to the lab"
   },
   {
     "objectID": "index.html#how-to-contribute",
     "href": "index.html#how-to-contribute",
-    "title": "LMS's wiki",
+    "title": "Wiki",
     "section": "   How to contribute",
     "text": "How to contribute\n\n   Change text\nJust open the corresponding markdown file in the github, modify it however you want and commit the changes, that’s it !\n\n\n   Add resources\nAdd the resource (pdf, svg, etc) in the Resources/Documents/YourSubfolderOfChoice folder and reference it in markdown [text](Resources/Documents/YourSubfolderOfChoice/YourFile)"
   },
   {
-    "objectID": "JournalClub.html",
-    "href": "JournalClub.html",
+    "objectID": "JournalClub.html#schedule",
+    "href": "JournalClub.html#schedule",
     "title": "   Journal club",
-    "section": "",
-    "text": "Date\nSpeaker\nTitle\nSeminar Type\n\n\n\n\nNovember 12\nAlexandre\nFENNI-PGD: non-linear surrogate modelling\nKeynote\n\n\nNovember 19\nXXXX\n\nReview\n\n\n\n\nTime: 12:30 on Tuesdays\nVenue: L18 meeting room"
+    "section": "   Schedule",
+    "text": "Schedule\n\n\n\nDate\nSpeaker\nTitle\nSeminar Type\n\n\n\n\n12/11/2024\nAlexandre\nFENNI-PGD: non-linear surrogate modelling\nKeynote\n\n\n03/12/2024\nXavier\n\nReview\n\n\n\n\nTime: 12:30 on Tuesdays\nVenue: L18 meeting room"
+  },
+  {
+    "objectID": "JournalClub.html#scientific-papers",
+    "href": "JournalClub.html#scientific-papers",
+    "title": "   Journal club",
+    "section": "   Scientific papers",
+    "text": "Scientific papers\n\nReduced-order modelling\n\n\n\n\n\n\n\nTopic\nRef\n\n\n\n\nA posteriori ROM (POD,RB)\n(Chatterjee 2000; Maday, Patera, and Turinici 2002; Maday and Rønquist 2002)\n\n\nA priori ROM (PGD)\n(Ladevèze and Dureisseix 1999; Ryckelynck et al. 2006; Chinesta, Ladeveze, and Cueto 2011)\n\n\nBlessing of dimensionality\n(A. N. Gorban and Tyukin 2018; Alexander N. Gorban, Tyukin, and Romanenko 2016)\n\n\nNon-linear operator inference\n(Kramer, Peherstorfer, and Willcox 2024)\n\n\n\n\n\nModelling\n\n\n\n\n\n\n\nTopic\nRef\n\n\n\n\nDamage mechanics\n(Peerlings et al. 1996; Lemaître and Desmorat 2005)\n\n\nLung poromechanics\n(Patte, Genet, and Chapelle 2022)\n\n\n\n\n\nDifferential Geometry for Engineers\n\n\n\n\n\n\n\nTopic\nRef\n\n\n\n\nCourse (french)\n(Kolev and Desmorat 2019)\n\n\nBook\n(Marsden and Hughes 1994; Sahraee and Wriggers 2023)"
   },
   {
     "objectID": "AddResources.html",
@@ -88,14 +102,14 @@
     "href": "AddResources.html#codes",
     "title": "Additional resources",
     "section": "   Codes",
-    "text": "Codes\n\ndolfin_mech (Genet et al. 2023)\n  \n\n\n\n\n\n\n\n\n\n\n\nA set of FEniCS-based python tools for Computational Mechanics.\n\n\n\n\ndolfin_warp (Genet 2023)\n  \n\n\n\n\n\n\n\n\nA set of FEniCS- and VTK-based python tools for Finite Element Digital Image Correlation/Image Registration/Motion Tracking.\n\n\n\n\n\nNeuROM (Daby-Seesaram, Skardova, and Genet 2024)\n  \n\n\n\n\n\n\n\n\n\n\n\nThe reduced-order modelling code used to create surrogate models based on an hybridisation of standard reduced-order modelling methods such as the PGD and Deep learning methods is public and notebooks with tutorials are also available."
+    "text": "Codes\n\ndolfin_mech (Genet et al. 2023)\n  \n\n\n\n\n\n\n\n\n\n\n\nA set of FEniCS-based python tools for Computational Mechanics.\n\n\n\n\ndolfin_warp (Genet 2023)\n  \n\n\n\n\n\n\n\n\nA set of FEniCS- and VTK-based python tools for Finite Element Digital Image Correlation/Image Registration/Motion Tracking.\n\n\n\n\n\nNeuROM (Daby-Seesaram, Skardova, and Genet 2024)\n  \n\n\n\n\n\n\n\n\n\n\n\nA reduced-order modelling code used to create surrogate models based on an hybridisation of standard reduced-order modelling methods such as the PGD and Deep learning methods is public and notebooks with tutorials are also available."
   },
   {
     "objectID": "Seminars.html#lms-seminars",
     "href": "Seminars.html#lms-seminars",
     "title": "Seminars",
     "section": "   LMS Seminars",
-    "text": "LMS Seminars\n\n\n\n\n\n\n\n\n\nDate\nSpeaker\nInstitution\nSeminar Type\n\n\n\n\nSeptember 19\nAdrien Baldit\nUniversité de Lorraine\nLMS\n\n\nSeptember 26\nArthur Despres\nGrenoble INP, Université Grenoble Alpes\nLMS\n\n\nOctober 03\nHao Gao\nUniversity of Glasgow\nLMS\n\n\nOctober 10\nJean-Charles Passieux\nINSA de Toulouse\nLMS\n\n\nOctober 17\nBenoît Roman\nPMMH – ESPCI, Paris\nLMS\n\n\nNovember 07\nAngkur Jyoti Dipanka Shaikeea\nUniversity of Cambridge\nLMS\n\n\nNovember 14\nMEDISIM seminars and workshop\n(all day)\nMEDISIM\n\n\nNovember 21\nMartina Bramberger\nNorthWest Research Associates, Boulder\nMECA\n\n\nNovember 28\n\n\nLMS\n\n\nDecember 05\nPedro Reis\nEPFL\nLMS\n\n\nDecember 11\nTriona Lally\nTrinity College Dublin\nMECA\n\n\nDecember 19\nMarie-Agathe Charpagne\nUniversity of Illinois Urbana-Champaign\nLMS\n\n\n\n\nTime: Every Thursday, 14:00 – 15:00 (unless otherwise specified)\nVenue: Amphi 104 (Pôle Mécanique)"
+    "text": "LMS Seminars"
   },
   {
     "objectID": "Seminars.html#mechanobiology-seminars",
@@ -109,7 +123,7 @@
     "href": "Seminars.html#computational-mechanics-at-ipp",
     "title": "Seminars",
     "section": "   Computational Mechanics at IPP",
-    "text": "Computational Mechanics at IPP\n\n\n\nDate\nSpeaker\n\n\n\n\n16/12\nMartin Genet\n\n\n20/01\nChristophe Josserand\n\n\n17/02\nMarc Massot\n\n\n17/03\nCyril Touzé\n\n\n28/04\nKostas Danas\n\n\n16/06\nIrene Vignon-Clementel"
+    "text": "Computational Mechanics at IPP\nIf you are interested in attending the seminar series,\n\ndo not hesitate\n\nto subscribe to the shared calendar https://webmail.polytechnique.fr/home/martin.genet@zimbra.polytechnique.fr/%5BIPP%5D%20Computational%20Mechanics%20Internal%20Seminar.ics.\n\n\n\n\n\nDate\nSpeaker\n\n\n\n\n16/12\nMartin Genet\n\n\n20/01\nChristophe Josserand\n\n\n17/02\nMarc Massot\n\n\n17/03\nCyril Touzé\n\n\n28/04\nKostas Danas\n\n\n16/06\nIrene Vignon-Clementel"
   },
   {
     "objectID": "LitReview.html",
