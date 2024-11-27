@@ -88,7 +88,7 @@
     "href": "AddResources.html#codes",
     "title": "Additional resources",
     "section": "   Codes",
-    "text": "Codes\n\ndolfin_mech (Genet et al. 2023)\n  \n\n\n\n\n\n\n\n\n\n\n\nA set of FEniCS-based python tools for Computational Mechanics.\n\n\n\n\ndolfin_warp (Genet 2023)\n  \n\n\n\n\n\n\n\n\nA set of FEniCS- and VTK-based python tools for Finite Element Digital Image Correlation/Image Registration/Motion Tracking.\n\n\n\n\n\nNeuROM (Daby-Seesaram, Skardova, and Genet 2024)\n  \n\n\n\n\n\n\n\n\n\n\n\nThe reduced-order modelling code used to create surrogate models based on an hybridisation of standard reduced-order modelling methods such as the PGD and Deep learning methods is public and notebooks with tutorials are also available."
+    "text": "Codes\n\ndolfin_mech (Genet et al. 2023)\n  \n\n\n\n\n\n\n\n\n\n\n\nA set of FEniCS-based python tools for Computational Mechanics.\n\n\n\n\ndolfin_warp (Genet 2023)\n  \n\n\n\n\n\n\n\n\nA set of FEniCS- and VTK-based python tools for Finite Element Digital Image Correlation/Image Registration/Motion Tracking.\n\n\n\n\n\nNeuROM (Daby-Seesaram, Skardova, and Genet 2024)\n  \n\n\n\n\n\n\n\n\n\n\n\nA reduced-order modelling code used to create surrogate models based on an hybridisation of standard reduced-order modelling methods such as the PGD and Deep learning methods is public and notebooks with tutorials are also available."
   },
   {
     "objectID": "LitReview.html",
