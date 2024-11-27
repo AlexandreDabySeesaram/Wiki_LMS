@@ -60,13 +60,13 @@ If you are interested in attending the seminar series,
 
     * to subscribe to the shared calendar [https://webmail.polytechnique.fr/home/martin.genet@zimbra.polytechnique.fr/%5BIPP%5D%20Computational%20Mechanics%20Internal%20Seminar.ics](https://webmail.polytechnique.fr/home/martin.genet@zimbra.polytechnique.fr/%5BIPP%5D%20Computational%20Mechanics%20Internal%20Seminar.ics). 
 
-<iframe height="600" src="https://framagenda.org/apps/calendar/embed/wSpe8zeZgDFTEJRk/listMonth/now" width="100%"></iframe>
+<iframe height="200" src="https://framagenda.org/apps/calendar/embed/wSpe8zeZgDFTEJRk/listMonth/now" width="100%"></iframe>
 
-| Date       | Speaker                |
+<!-- | Date       | Speaker                |
 |------------|-------------------------|
 | 16/12      | Martin Genet            |
 | 20/01      | Christophe Josserand     |
 | 17/02      | Marc Massot             |
 | 17/03      | Cyril Touzé             |
 | 28/04      | Kostas Danas            |
-| 16/06      | Irene Vignon-Clementel  |
+| 16/06      | Irene Vignon-Clementel  | -->
