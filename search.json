@@ -4,7 +4,7 @@
     "href": "WelcomeGuide.html#servers",
     "title": "Welcome Guide",
     "section": "   Servers",
-    "text": "Servers\n\nFileSender lets you share files of up to 100GB, with the assurance that your data is secure. Your files remain available for download for up to 30 days."
+    "text": "Servers\n\nFileSender lets you share files of up to 100GB, with the assurance that your data is secure. Your files remain available for download for up to 30 days.\nSlurm is the open source, cluster management and job scheduling system installed on most Linux clusters (École Polytechnique, Jean-zay, etc)"
   },
   {
     "objectID": "WelcomeGuide.html#cnrs-latex",
