@@ -133,6 +133,15 @@ ul.task-list li input[type="checkbox"] {
   <li><a href="#cnrs-cloud-storage" id="toc-cnrs-cloud-storage" class="nav-link" data-scroll-target="#cnrs-cloud-storage"><iconify-icon role="img" inline="" icon="fa6-solid:cloud-arrow-up" aria-label="Icon cloud-arrow-up from fa6-solid Iconify.design set." title="Icon cloud-arrow-up from fa6-solid Iconify.design set."></iconify-icon> &nbsp; CNRS cloud storage</a></li>
   <li><a href="#coffee" id="toc-coffee" class="nav-link" data-scroll-target="#coffee"><iconify-icon role="img" inline="" icon="fa6-solid:mug-saucer" aria-label="Icon mug-saucer from fa6-solid Iconify.design set." title="Icon mug-saucer from fa6-solid Iconify.design set."></iconify-icon> &nbsp; Coffee</a></li>
   <li><a href="#magnan" id="toc-magnan" class="nav-link" data-scroll-target="#magnan"><iconify-icon role="img" inline="" icon="fa6-solid:utensils" aria-label="Icon utensils from fa6-solid Iconify.design set." title="Icon utensils from fa6-solid Iconify.design set."></iconify-icon> &nbsp; Magnan</a></li>
+  <li><a href="#essential-bash-commands-for-beginners" id="toc-essential-bash-commands-for-beginners" class="nav-link" data-scroll-target="#essential-bash-commands-for-beginners"><iconify-icon role="img" inline="" icon="fa6-solid:terminal" aria-label="Icon terminal from fa6-solid Iconify.design set." title="Icon terminal from fa6-solid Iconify.design set."></iconify-icon> &nbsp; Essential Bash Commands for Beginners</a>
+  <ul class="collapse">
+  <li><a href="#navigation" id="toc-navigation" class="nav-link" data-scroll-target="#navigation"><strong>Navigation</strong></a></li>
+  <li><a href="#file-and-directory-operations" id="toc-file-and-directory-operations" class="nav-link" data-scroll-target="#file-and-directory-operations"><strong>File and Directory Operations</strong></a></li>
+  <li><a href="#viewing-file-contents" id="toc-viewing-file-contents" class="nav-link" data-scroll-target="#viewing-file-contents"><strong>Viewing File Contents</strong></a></li>
+  <li><a href="#searching-and-finding" id="toc-searching-and-finding" class="nav-link" data-scroll-target="#searching-and-finding"><strong>Searching and Finding</strong></a></li>
+  <li><a href="#networking" id="toc-networking" class="nav-link" data-scroll-target="#networking"><strong>Networking</strong></a></li>
+  <li><a href="#miscellaneous" id="toc-miscellaneous" class="nav-link" data-scroll-target="#miscellaneous"><strong>Miscellaneous</strong></a></li>
+  </ul></li>
   </ul>
 </nav>
     </div>
@@ -185,8 +194,86 @@ ul.task-list li input[type="checkbox"] {
 <h2 class="anchored" data-anchor-id="magnan"><iconify-icon role="img" inline="" icon="fa6-solid:utensils" aria-label="Icon utensils from fa6-solid Iconify.design set." title="Icon utensils from fa6-solid Iconify.design set."></iconify-icon> &nbsp; Magnan</h2>
 <p>You can top up your Magnan account balance at the main cash desk, with the terminals at the entrance of Magnan but also online.</p>
 <p>For the online option, you need to go on the <a href="https://www.popandpay.com">pop and pay website</a>. The code site is “magnan”. At you first connexion, you must use your default login details to log in; once connected you will be asked to define a new credentials. Your default login (which is also the default password) is written on the left of your name on the Magnan receipts.</p>
+</section>
+<section id="essential-bash-commands-for-beginners" class="level2">
+<h2 class="anchored" data-anchor-id="essential-bash-commands-for-beginners"><iconify-icon role="img" inline="" icon="fa6-solid:terminal" aria-label="Icon terminal from fa6-solid Iconify.design set." title="Icon terminal from fa6-solid Iconify.design set."></iconify-icon> &nbsp; Essential Bash Commands for Beginners</h2>
+<section id="navigation" class="level3">
+<h3 class="anchored" data-anchor-id="navigation"><strong>Navigation</strong></h3>
+<ul>
+<li><code>pwd</code>: Print the current working directory.</li>
+<li><code>ls</code>: List files and directories in the current directory.
+<ul>
+<li><code>ls -a</code>: Show hidden files.</li>
+<li><code>ls -l</code>: Detailed list view.</li>
+</ul></li>
+<li><code>cd [path]</code>: Change directory.
+<ul>
+<li><code>cd ..</code>: Go up one directory level.</li>
+<li><code>cd ~</code>: Go to the home directory.</li>
+</ul></li>
+</ul>
+</section>
+<section id="file-and-directory-operations" class="level3">
+<h3 class="anchored" data-anchor-id="file-and-directory-operations"><strong>File and Directory Operations</strong></h3>
+<ul>
+<li><code>touch [file]</code>: Create a new empty file.</li>
+<li><code>mkdir [directory]</code>: Create a new directory.</li>
+<li><code>cp [source] [destination]</code>: Copy files or directories.
+<ul>
+<li><code>cp -r [directory] [destination]</code>: Copy directories recursively.</li>
+</ul></li>
+<li><code>rsync [options] [source] [destination]</code>: Synchronize files/directories over ssh.
+<ul>
+<li><code>rsync -av [source] [destination]</code>: Archive mode (preserves permissions, timestamps) with verbose output.</li>
+<li><code>rsync -az [source] [destination]</code>: Compress data during transfer.</li>
+<li><code>rsync --progress [source] [destination]</code>: Show progress during synchronization.</li>
+</ul></li>
+<li><code>mv [source] [destination]</code>: Move or rename files/directories.</li>
+<li><code>rm [file]</code>: Delete a file.
+<ul>
+<li><code>rm -r [directory]</code>: Delete a directory and its contents.</li>
+</ul></li>
+</ul>
+</section>
+<section id="viewing-file-contents" class="level3">
+<h3 class="anchored" data-anchor-id="viewing-file-contents"><strong>Viewing File Contents</strong></h3>
+<ul>
+<li><code>cat [file]</code>: Display the entire content of a file.</li>
+<li><code>vim [file]</code>: Open the file in vim text editor ### <strong>Permissions</strong></li>
+<li><code>chmod [permissions] [file]</code>: Change file permissions.
+<ul>
+<li>Example: <code>chmod 755 script.sh</code>.</li>
+</ul></li>
+<li><code>chown [user]:[group] [file]</code>: Change file owner.</li>
+</ul>
+</section>
+<section id="searching-and-finding" class="level3">
+<h3 class="anchored" data-anchor-id="searching-and-finding"><strong>Searching and Finding</strong></h3>
+<ul>
+<li><code>find [path] -name [pattern]</code>: Search for files by name.</li>
+<li><code>grep [pattern] [file]</code>: Search for a pattern in a file.
+<ul>
+<li><code>grep -r [pattern] [directory]</code>: Search recursively.</li>
+</ul></li>
+</ul>
+</section>
+<section id="networking" class="level3">
+<h3 class="anchored" data-anchor-id="networking"><strong>Networking</strong></h3>
+<ul>
+<li><code>ping [hostname]</code>: Check connectivity to a host.</li>
+<li><code>curl [url]</code>: Fetch data from a URL.</li>
+</ul>
+</section>
+<section id="miscellaneous" class="level3">
+<h3 class="anchored" data-anchor-id="miscellaneous"><strong>Miscellaneous</strong></h3>
+<ul>
+<li><code>echo [text]</code>: Print text to the terminal.</li>
+<li><code>history</code>: Show command history.</li>
+<li><code>clear</code>: Clear the terminal screen.</li>
+</ul>
 
 
+</section>
 </section>
 
 </main> <!-- /main -->

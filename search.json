@@ -35,6 +35,13 @@
     "text": "Magnan\nYou can top up your Magnan account balance at the main cash desk, with the terminals at the entrance of Magnan but also online.\nFor the online option, you need to go on the pop and pay website. The code site is “magnan”. At you first connexion, you must use your default login details to log in; once connected you will be asked to define a new credentials. Your default login (which is also the default password) is written on the left of your name on the Magnan receipts."
   },
   {
+    "objectID": "WelcomeGuide.html#essential-bash-commands-for-beginners",
+    "href": "WelcomeGuide.html#essential-bash-commands-for-beginners",
+    "title": "Welcome Guide",
+    "section": "   Essential Bash Commands for Beginners",
+    "text": "Essential Bash Commands for Beginners\n\nNavigation\n\npwd: Print the current working directory.\nls: List files and directories in the current directory.\n\nls -a: Show hidden files.\nls -l: Detailed list view.\n\ncd [path]: Change directory.\n\ncd ..: Go up one directory level.\ncd ~: Go to the home directory.\n\n\n\n\nFile and Directory Operations\n\ntouch [file]: Create a new empty file.\nmkdir [directory]: Create a new directory.\ncp [source] [destination]: Copy files or directories.\n\ncp -r [directory] [destination]: Copy directories recursively.\n\nrsync [options] [source] [destination]: Synchronize files/directories over ssh.\n\nrsync -av [source] [destination]: Archive mode (preserves permissions, timestamps) with verbose output.\nrsync -az [source] [destination]: Compress data during transfer.\nrsync --progress [source] [destination]: Show progress during synchronization.\n\nmv [source] [destination]: Move or rename files/directories.\nrm [file]: Delete a file.\n\nrm -r [directory]: Delete a directory and its contents.\n\n\n\n\nViewing File Contents\n\ncat [file]: Display the entire content of a file.\nvim [file]: Open the file in vim text editor ### Permissions\nchmod [permissions] [file]: Change file permissions.\n\nExample: chmod 755 script.sh.\n\nchown [user]:[group] [file]: Change file owner.\n\n\n\nSearching and Finding\n\nfind [path] -name [pattern]: Search for files by name.\ngrep [pattern] [file]: Search for a pattern in a file.\n\ngrep -r [pattern] [directory]: Search recursively.\n\n\n\n\nNetworking\n\nping [hostname]: Check connectivity to a host.\ncurl [url]: Fetch data from a URL.\n\n\n\nMiscellaneous\n\necho [text]: Print text to the terminal.\nhistory: Show command history.\nclear: Clear the terminal screen."
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Wiki",
