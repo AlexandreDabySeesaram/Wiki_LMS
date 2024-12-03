@@ -81,14 +81,14 @@
     "href": "AddResources.html",
     "title": "Additional resources",
     "section": "",
-    "text": "A Ph.D. thesis template openly available on Github.\nA beamer template for LMS presentations is available on Github\nThe package microtype helps improving the rendering of long text easily\nQuarto is an open-source librairy that enables to create dynamic scientific documents, presentations, and websites using Markdown, LaTeX, and a variety of programming languages (including python, R, etc.).\n\nThe html presentations can then be translated into pdfs using decktape.\n\ninstall node brew install node\ninstall decktape npm install -g decktape\nreveal --size=1600x1000 presentation.html presentation.pdf"
+    "text": "The PhD template is for writting a PhD thesis with a separate title page. This template aims at setting up all the necessary packages and create the base outline of a thesis.\nThe beamer template is for presentations with an LMS-based style and exemples.\n\n\n\n\n PhD Template\n\n\n\n Beamer\n\n\n\n\n\n\n\nThe package microtype helps improving the rendering of long text easily\nQuarto is an open-source librairy that enables to create dynamic scientific documents, presentations, and websites using Markdown, LaTeX, and a variety of programming languages (including python, R, etc.).\n\nThe html presentations can then be translated into pdfs using decktape.\n\ninstall node brew install node\ninstall decktape npm install -g decktape\nreveal --size=1600x1000 presentation.html presentation.pdf\n\n\n\nGood practices regarding figure formating\n\nColour science (Crameri, Shephard, and Heron 2020) and colour map choices\n10 rules for better figures in scientific writting (Rougier, Droettboom, and Bourne 2014)\nNice tool for plotting data in latex: PGFplot"
   },
   {
     "objectID": "AddResources.html#scientific-writing",
     "href": "AddResources.html#scientific-writing",
     "title": "Additional resources",
     "section": "",
-    "text": "A Ph.D. thesis template openly available on Github.\nA beamer template for LMS presentations is available on Github\nThe package microtype helps improving the rendering of long text easily\nQuarto is an open-source librairy that enables to create dynamic scientific documents, presentations, and websites using Markdown, LaTeX, and a variety of programming languages (including python, R, etc.).\n\nThe html presentations can then be translated into pdfs using decktape.\n\ninstall node brew install node\ninstall decktape npm install -g decktape\nreveal --size=1600x1000 presentation.html presentation.pdf"
+    "text": "The PhD template is for writting a PhD thesis with a separate title page. This template aims at setting up all the necessary packages and create the base outline of a thesis.\nThe beamer template is for presentations with an LMS-based style and exemples.\n\n\n\n\n PhD Template\n\n\n\n Beamer\n\n\n\n\n\n\n\nThe package microtype helps improving the rendering of long text easily\nQuarto is an open-source librairy that enables to create dynamic scientific documents, presentations, and websites using Markdown, LaTeX, and a variety of programming languages (including python, R, etc.).\n\nThe html presentations can then be translated into pdfs using decktape.\n\ninstall node brew install node\ninstall decktape npm install -g decktape\nreveal --size=1600x1000 presentation.html presentation.pdf\n\n\n\nGood practices regarding figure formating\n\nColour science (Crameri, Shephard, and Heron 2020) and colour map choices\n10 rules for better figures in scientific writting (Rougier, Droettboom, and Bourne 2014)\nNice tool for plotting data in latex: PGFplot"
   },
   {
     "objectID": "AddResources.html#correspondance",
@@ -123,7 +123,7 @@
     "href": "Seminars.html#computational-mechanics-at-ipp",
     "title": "Seminars",
     "section": "   Computational Mechanics at IPP",
-    "text": "Computational Mechanics at IPP\nIf you are interested in attending the seminar series,\n\ndo not hesitate\n\nto subscribe to the shared calendar https://webmail.polytechnique.fr/home/martin.genet@zimbra.polytechnique.fr/%5BIPP%5D%20Computational%20Mechanics%20Internal%20Seminar.ics.\n\n\n\n\n\n\n\nDate\nSpeaker\n\n\n\n\n16/12\nMartin Genet\n\n\n20/01\nChristophe Josserand\n\n\n17/02\nMarc Massot\n\n\n17/03\nCyril Touzé\n\n\n28/04\nKostas Danas\n\n\n16/06\nIrene Vignon-Clementel"
+    "text": "Computational Mechanics at IPP\nIf you are interested in attending the seminar series,\n\ndo not hesitate\n\nto subscribe to the shared calendar https://webmail.polytechnique.fr/home/martin.genet@zimbra.polytechnique.fr/%5BIPP%5D%20Computational%20Mechanics%20Internal%20Seminar.ics."
   },
   {
     "objectID": "LitReview.html",

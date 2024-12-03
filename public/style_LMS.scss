@@ -41,3 +41,42 @@ h3 {
     align-items: center; /* Center-aligns the content vertically */
   }
   
+
+
+
+// SCSS for rounded box buttons
+.button {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+
+  a.button {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    padding: 0.25rem 0.5rem;
+    border-radius: 10px; // Makes the button rounded
+    background-color: #00436d; // Primary color
+    color: white;
+    text-decoration: none;
+    // font-size: 1rem;
+    // font-weight: 500;
+    transition: background-color 0.3s, box-shadow 0.3s;
+
+    &:hover {
+      background-color: #00436d; // Darker shade on hover
+      box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); // Adds a shadow
+      font-size: 0.97rem;
+    }
+
+    &:active {
+      background-color: #00436d; // Even darker for active state
+      box-shadow: inset 0 2px 4px rgba(0, 0, 0, 0.2); // Inset shadow
+      font-size: 0.97rem;
+    }
+
+    span.button-text {
+      margin-left: 0.5rem; // Spacing between icon and text
+    }
+  }
+}

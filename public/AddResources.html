@@ -148,7 +148,11 @@ div.csl-indent {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#scientific-writing" id="toc-scientific-writing" class="nav-link active" data-scroll-target="#scientific-writing"><iconify-icon role="img" inline="" icon="fa-solid:pen-nib" aria-label="Icon pen-nib from fa-solid Iconify.design set." title="Icon pen-nib from fa-solid Iconify.design set."></iconify-icon> &nbsp; Scientific writing</a></li>
+  <li><a href="#scientific-writing" id="toc-scientific-writing" class="nav-link active" data-scroll-target="#scientific-writing"><iconify-icon role="img" inline="" icon="fa-solid:pen-nib" aria-label="Icon pen-nib from fa-solid Iconify.design set." title="Icon pen-nib from fa-solid Iconify.design set."></iconify-icon> &nbsp; Scientific writing</a>
+  <ul class="collapse">
+  <li><a href="#templates-latex-beamer" id="toc-templates-latex-beamer" class="nav-link" data-scroll-target="#templates-latex-beamer">Templates (Latex &amp; Beamer)</a></li>
+  <li><a href="#general-tips-and-tools" id="toc-general-tips-and-tools" class="nav-link" data-scroll-target="#general-tips-and-tools">General tips and tools</a></li>
+  </ul></li>
   <li><a href="#correspondance" id="toc-correspondance" class="nav-link" data-scroll-target="#correspondance"><iconify-icon role="img" inline="" icon="fa-solid:envelope" aria-label="Icon envelope from fa-solid Iconify.design set." title="Icon envelope from fa-solid Iconify.design set."></iconify-icon> &nbsp; Correspondance</a></li>
   <li><a href="#codes" id="toc-codes" class="nav-link" data-scroll-target="#codes"><iconify-icon role="img" inline="" icon="fa-solid:code" aria-label="Icon code from fa-solid Iconify.design set." title="Icon code from fa-solid Iconify.design set."></iconify-icon> &nbsp; Codes</a>
   <ul class="collapse">
@@ -183,9 +187,27 @@ div.csl-indent {
 
 <section id="scientific-writing" class="level2">
 <h2 class="anchored" data-anchor-id="scientific-writing"><iconify-icon role="img" inline="" icon="fa-solid:pen-nib" aria-label="Icon pen-nib from fa-solid Iconify.design set." title="Icon pen-nib from fa-solid Iconify.design set."></iconify-icon> &nbsp; Scientific writing</h2>
+<section id="templates-latex-beamer" class="level3 talk-card">
+<h3 class="anchored" data-anchor-id="templates-latex-beamer">Templates (Latex &amp; Beamer)</h3>
 <ul>
-<li>A Ph.D.&nbsp;thesis template openly available on <a href="https://github.com/floiseau/PhD_Thesis_Template">Github.</a></li>
-<li>A beamer template for LMS presentations is available on <a href="https://github.com/AlexandreDabySeesaram/Slideshow_Template">Github</a></li>
+<li>The PhD template is for writting a PhD thesis with a separate title page. This template aims at setting up all the necessary packages and create the base outline of a thesis.</li>
+<li>The beamer template is for presentations with an LMS-based style and exemples.</li>
+</ul>
+<div class="columns">
+<div class="column" style="width:120pt;">
+<div class="button">
+<p><a href="https://github.com/floiseau/PhD_Thesis_Template" class="button" target="_blank"><iconify-icon icon="fa-brands:github" aria-label="PhD PhD Template"></iconify-icon> PhD Template</a></p>
+</div>
+</div><div class="column" style="width:120pt;">
+<div class="button">
+<p><a href="https://github.com/AlexandreDabySeesaram/Slideshow_Template" class="button" target="_blank"><iconify-icon icon="fa-brands:github" aria-label="Beamer"></iconify-icon> Beamer</a></p>
+</div>
+</div>
+</div>
+</section>
+<section id="general-tips-and-tools" class="level3 talk-card">
+<h3 class="anchored" data-anchor-id="general-tips-and-tools">General tips and tools</h3>
+<ul>
 <li>The package <a href="https://ctan.org/pkg/microtype">microtype</a> helps improving the rendering of long text easily</li>
 <li><a href="https://quarto.org/">Quarto</a> is an open-source librairy that enables to create dynamic scientific documents, presentations, and websites using Markdown, LaTeX, and a variety of programming languages (including python, R, etc.).
 <ul>
@@ -193,10 +215,18 @@ div.csl-indent {
 <ul>
 <li>install node <code>brew install node</code></li>
 <li>install decktape <code>npm install -g decktape</code></li>
-<li><code>reveal --size=1600x1000 presentation.html presentation.pdf</code></li>
+<li><code>reveal --size=1600x1000 presentation.html presentation.pdf</code><br>
+</li>
 </ul></li>
+</ul></li>
+<li>Good practices regarding figure formating
+<ul>
+<li>Colour science <span class="citation" data-cites="crameriMisuseColourScience2020a">(<a href="#ref-crameriMisuseColourScience2020a" role="doc-biblioref">Crameri, Shephard, and Heron 2020</a>)</span> and colour map choices</li>
+<li>10 rules for better figures in scientific writting <span class="citation" data-cites="rougierTenSimpleRules2014a">(<a href="#ref-rougierTenSimpleRules2014a" role="doc-biblioref">Rougier, Droettboom, and Bourne 2014</a>)</span></li>
+<li>Nice tool for plotting data in latex: <a href="https://pgfplots.net/">PGFplot</a></li>
 </ul></li>
 </ul>
+</section>
 </section>
 <section id="correspondance" class="level2">
 <h2 class="anchored" data-anchor-id="correspondance"><iconify-icon role="img" inline="" icon="fa-solid:envelope" aria-label="Icon envelope from fa-solid Iconify.design set." title="Icon envelope from fa-solid Iconify.design set."></iconify-icon> &nbsp; Correspondance</h2>
@@ -272,6 +302,9 @@ div.csl-indent {
 </section>
 
 <div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" role="doc-bibliography" id="quarto-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0" role="list">
+<div id="ref-crameriMisuseColourScience2020a" class="csl-entry" role="listitem">
+Crameri, Fabio, Grace E. Shephard, and Philip J. Heron. 2020. <span>“The Misuse of Colour in Science Communication.”</span> <em>Nature Communications</em> 11 (1): 5444. <a href="https://doi.org/10.1038/s41467-020-19160-7">https://doi.org/10.1038/s41467-020-19160-7</a>.
+</div>
 <div id="ref-neurom_2024" class="csl-entry" role="listitem">
 Daby-Seesaram, A., K. Skardova, and M. Genet. 2024. <span>“<span>NeuROM</span>.”</span> Zenodo. <a href="https://doi.org/10.5281/zenodo.13772741 ">https://doi.org/10.5281/zenodo.13772741 </a>.
 </div>
@@ -280,6 +313,9 @@ Genet, M. 2023. <span>“<span class="nocase">dolfin_warp</span>.”</span> Zeno
 </div>
 <div id="ref-dolfin_mech_2023" class="csl-entry" role="listitem">
 Genet, M., C. Patte, M. Manoochehrtayebi, and A. Peyraut. 2023. <span>“<span class="nocase">dolfin_mech</span>.”</span> Zenodo. <a href="https://doi.org/10.5281/zenodo.10533833 ">https://doi.org/10.5281/zenodo.10533833 </a>.
+</div>
+<div id="ref-rougierTenSimpleRules2014a" class="csl-entry" role="listitem">
+Rougier, Nicolas P., Michael Droettboom, and Philip E. Bourne. 2014. <span>“Ten <span>Simple Rules</span> for <span>Better Figures</span>.”</span> <em>PLOS Computational Biology</em> 10 (9): e1003833. <a href="https://doi.org/10.1371/journal.pcbi.1003833">https://doi.org/10.1371/journal.pcbi.1003833</a>.
 </div>
 </div></section></div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
